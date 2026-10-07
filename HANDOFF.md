@@ -64,7 +64,7 @@ Each is labelled `ASSUMPTION` in the code.
 - **Prep timer is rough.** It starts when a client is first opened in a browser session and stops at finalise.
 - **Client data is sent to the Anthropic API** in the prompt (synthetic here). Real client data would need data
   classification, residency and outsourcing approval first.
-- **No screenshots yet** in the README.
+- **Screenshots** in `data/screenshots/` were taken on 7 Oct 2026; the Metrics one predates any finalised brief.
 
 ## To productionise
 1. **Data:** governed feeds from core banking and CRM, point-in-time features, and freshness checks that block stale

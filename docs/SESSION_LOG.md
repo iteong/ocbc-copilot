@@ -74,6 +74,11 @@ fact-check evaluation layer, and a Streamlit app.
 - **Test fix:** plain `pytest tests/` couldn't import `src` (only `python -m pytest` worked). Added
   `tests/conftest.py` to put the repo root on the path.
 
+## Screenshots
+- The user added 7 screenshots to `data/screenshots/`, which are now in the README (the ranking view as the main
+  image, the rest collapsible). Checked: every S$ amount renders correctly, and the Claude brief shown passed all
+  11 points.
+
 ## Open caveats
 See `HANDOFF.md` → Known shortcuts. The main ones:
 - the ranking is no better than simple rules on synthetic labels;

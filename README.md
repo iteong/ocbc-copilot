@@ -12,6 +12,38 @@ edits and finalises the notes, and decides what (if anything) to say.
 > come from OCBC's public product API (10 deposit, loan and investment products), pulled 5 Oct 2026. They are
 > indicative and may be outdated: confirm current rates and terms before quoting any figure.
 
+![Who to call: an RM's 100 clients ranked by score, each with the reasons behind it](data/screenshots/clients-to-call.png)
+
+<details>
+<summary>More screenshots: meeting prep, cited talking points, fact-check and metrics</summary>
+
+**Client profile:** holdings with fact ids, source and date; signals computed in code; recent interactions:
+
+![Meeting prep for one client: holdings table, signals and recent interactions](data/screenshots/meeting-prep1-clientprofile.png)
+
+**Suggested topics:** each rule's reasons and evidence ids, with the product facts it draws on and how old they are:
+
+![Suggested topics with the Time Deposit fact sheet for the client's tier](data/screenshots/meeting-prep2-suggestedtopics.png)
+
+**Talking points drafted by Claude:** each point has a fact-check verdict, a Keep box, editable text and its cited
+facts with source and date:
+
+![Claude-drafted talking points, all passing the fact-check, with citations under each point](data/screenshots/meeting-prep3-talkingpts.png)
+
+**Cautions, finalise and after the meeting:** stale facts are labelled; the RM finalises, then logs the outcome:
+
+![A caution citing fact sheets, the Finalise button and the post-meeting outcome form](data/screenshots/meeting-prep4-postmeeting.png)
+
+**Fact-check & eval:** the checks, the seeded-error self-test and the ranking evaluation:
+
+![Fact-check rules, checker self-test detection rates and ranking AUC vs baselines](data/screenshots/fact-check-eval.png)
+
+**Metrics:** success metrics from the event log (taken before any brief was finalised, so most tiles show n/a):
+
+![Success metrics tiles and the RM event log](data/screenshots/success-metrics.png)
+
+</details>
+
 ## How it works
 1. **Synthetic book:** `src/data_gen.py` makes 4 RMs and 400 clients with 851 holdings of the real product names,
    30-day activity, interaction notes and past outreach outcomes. Every row carries `source` and `as_of`

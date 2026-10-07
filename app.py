@@ -153,7 +153,7 @@ with tab_prep:
     if not suggestions:
         st.caption("No product suggestions; consider a relationship check-in.")
     for s in suggestions:
-        with st.expander(esc(f"{s['product_name']} ({s['type']}): " + "; ".join(s["reasons"]))):
+        with st.expander(esc(f"{s['product_name']} ({s['type']}): " + "; ".join(r.rstrip(".") for r in s["reasons"]))):
             st.caption(esc("Evidence: " + ", ".join(s["client_fact_ids"])))
             st.dataframe(pd.DataFrame([{
                 "Fact id": f["fact_id"], "Fact": f["text"].split(" | ", 1)[1], "Source": f["source"],
@@ -250,7 +250,8 @@ with tab_check:
     with a:
         st.markdown("**Checker self-test (seeded errors in clean briefs)**")
         t = rep["checker_self_test"]
-        st.dataframe(pd.DataFrame(t["detection_rate_by_error"].items(), columns=["Seeded error", "Detection rate"]),
+        st.dataframe(pd.DataFrame([(k, f"{v:.0%}") for k, v in t["detection_rate_by_error"].items()],
+                                  columns=["Seeded error", "Detection rate"]),
                      hide_index=True, width="stretch")
         st.caption(f"False-fail rate on {t['clean_points']} clean points: {t['clean_false_fail_rate']:.0%}")
     with b:
