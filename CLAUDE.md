@@ -1,8 +1,7 @@
 # Project conventions
 - Python 3.11. Use pandas, scikit-learn, streamlit. Keep dependencies minimal.
 - All customer data is SYNTHETIC. Real product facts are in data/products_clean/products.json (cleaned from OCBC's public API JSON in data/ocbc_products/, pulled 5 Oct 2026, indicative and possibly outdated). Use the clean file, not the raw JSON. Cite product_name and source_file, and never present its rates as current.
-- Structure: data generation in src/data_gen.py, business logic/model in src/core.py,
-  evaluation in src/eval.py, UI in app.py.
+- Structure: data generation in src/data_gen.py, business logic/model in src/core.py, evaluation in src/eval.py, UI in app.py.
 - Prefer simple, explainable approaches first (rules, logistic regression) before complex models.
 - Every model or ranking must expose WHY (feature contributions, reasons, or cited sources).
 - Write small functions with docstrings. No notebooks.
@@ -12,3 +11,6 @@
 - This is an Intel Mac: never install torch or sentence-transformers. For semantic search use model2vec (minishlab/potion-base-8M).
 - Load secrets with `from dotenv import load_dotenv, find_dotenv; load_dotenv(find_dotenv(usecwd=True))`. Never print or hard-code API keys.
 - Don't run `streamlit run` yourself — I run the app in a separate terminal tab; it reloads on save.
+- Wrap every Claude API call in try/except with a timeout and a non-AI fallback, so the app never crashes if the API fails.
+- In Streamlit, escape every $ in text you display (st.markdown treats text between two $ signs as maths, so 'S$800 … S$160' renders garbled).
+- Never name a module after a Python built-in (e.g. copy.py, json.py).
