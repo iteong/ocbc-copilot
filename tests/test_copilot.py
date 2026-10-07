@@ -56,3 +56,16 @@ def test_app_smoke(tmp_path, monkeypatch):
     at.button[1].click().run()          # Finalise
     assert not at.exception
     assert (tmp_path / "events.csv").exists()
+
+
+def test_llm_failure_falls_back(ctx, monkeypatch):
+    """Any API error must give template points plus an error message, never an exception."""
+    s, sug, facts = ctx
+
+    def boom(*_):
+        raise RuntimeError("simulated API outage")
+
+    monkeypatch.setattr(core, "_llm_points", boom)
+    brief = core.generate_brief(s, sug, facts, use_ai=True)
+    assert brief["generator"] == "template (AI unavailable)" and "outage" in brief["error"]
+    assert fc.fact_check_brief(brief["points"], facts)["summary"]["fail"] == 0

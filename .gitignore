@@ -5,3 +5,4 @@ __pycache__/
 .streamlit/secrets.toml
 .DS_Store
 data/feedback/
+.pytest_cache/

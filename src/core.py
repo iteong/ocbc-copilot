@@ -17,6 +17,7 @@ reviews, edits and decides what (if anything) to use.
 from __future__ import annotations
 
 import json
+import os
 import re
 from datetime import date, datetime, timezone
 from pathlib import Path
@@ -34,7 +35,8 @@ PRODUCTS_PATH = ROOT / "data" / "products_clean" / "products.json"
 SYNTH_DIR = ROOT / "data" / "synthetic"
 FEEDBACK_PATH = ROOT / "data" / "feedback" / "events.csv"
 
-MODEL_ID = "claude-opus-5-5"
+# Override with RM_COPILOT_MODEL in .env, e.g. to compare models.
+MODEL_ID = os.environ.get("RM_COPILOT_MODEL", "claude-opus-5-5")
 LLM_TIMEOUT_S = 60.0
 
 # ---------------------------------------------------------------------------

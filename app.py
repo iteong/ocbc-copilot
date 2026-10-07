@@ -55,8 +55,8 @@ def get_ranked():
 
 @st.cache_data
 def get_eval():
-    """Deterministic eval report (no API calls)."""
-    return fc.run_all(0)
+    """Deterministic eval report (no API calls; doesn't overwrite the saved report)."""
+    return fc.run_all(0, save=False)
 
 
 book, sheets, ranked = get_book(), get_sheets(), get_ranked()

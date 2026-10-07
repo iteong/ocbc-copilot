@@ -406,6 +406,8 @@
     "fallback_rate": 0.0,
     "mean_pass_rate": 0.912,
     "mean_citation_validity": 1.0,
-    "total_fail_points": 1
+    "total_fail_points": 1,
+    "generated_at": "2026-10-07 (date only)",
+    "model": "claude-opus-5-5"
   }
 }

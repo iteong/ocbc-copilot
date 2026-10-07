@@ -1,0 +1,9 @@
+# Python 3.11
+streamlit==1.65.0       # app.py UI
+pandas==3.0.6           # synthetic tables, features, summaries
+numpy==2.4.6            # synthetic data, random draws
+scikit-learn==1.9.1     # logistic regression, scaling, cross-validation, AUC
+anthropic==1.11.0       # Claude drafts the talking points
+pydantic==2.13.5        # structured output schema for the talking points
+python-dotenv==1.2.4    # reads ANTHROPIC_API_KEY (and RM_COPILOT_MODEL) from .env
+pytest==9.1.1           # tests in tests/ (dev only)
