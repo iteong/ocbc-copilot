@@ -1,0 +1,411 @@
+{
+  "ranking": {
+    "n_clients": 400,
+    "base_rate": 0.292,
+    "top_frac": 0.2,
+    "auc": {
+      "model": "0.684 \u00b1 0.057",
+      "rules": "0.666 \u00b1 0.053",
+      "random": "0.501 \u00b1 0.061"
+    },
+    "precision_at_top_20pct": {
+      "model": "0.545 \u00b1 0.093",
+      "rules": "0.507 \u00b1 0.092",
+      "random": "0.260 \u00b1 0.086"
+    },
+    "standardised_coefficients": {
+      "td_maturing_60d": 0.449,
+      "lock_in_ending_120d": 0.359,
+      "idle_cash_over_50k": 0.428,
+      "large_inflow_30d": 0.086,
+      "log_days_since_contact": 0.038,
+      "no_investment_growth_profile": 0.317,
+      "usd_without_fx_account": 0.027
+    }
+  },
+  "checker_self_test": {
+    "clean_points": 105,
+    "clean_false_fail_rate": 0.0,
+    "detection_rate_by_error": {
+      "invented_number": 1.0,
+      "fake_citation": 1.0,
+      "missing_citation": 1.0,
+      "banned_phrase": 1.0,
+      "acting_on_behalf": 1.0,
+      "invented_product": 1.0,
+      "invented_date": 1.0
+    }
+  },
+  "llm_briefs": {
+    "briefs": [
+      {
+        "client_id": "C0134",
+        "generator": "claude-opus-5-5",
+        "error": null,
+        "latency_s": 14.8,
+        "n_points": 11,
+        "pass": 11,
+        "warn": 0,
+        "fail": 0,
+        "pass_rate": 1.0,
+        "citation_validity": 1.0,
+        "issues": [],
+        "points": [
+          {
+            "section": "opener",
+            "text": "Thank you for making time, Joanne. A couple of your arrangements come up soon: your home loan lock-in ends on 2026-10-26 and your time deposit matures on 2026-11-17, so it is a good moment to review both.",
+            "citations": [
+              "C-SIG-2",
+              "C-SIG-1"
+            ]
+          },
+          {
+            "section": "talking_point",
+            "text": "Your home loan has S$455,813 outstanding on a 'Fixed Deposit-linked' package, with the lock-in ending 2026-10-26. We can review the package options together before then.",
+            "citations": [
+              "C-H-H00275",
+              "C-SIG-2"
+            ]
+          },
+          {
+            "section": "talking_point",
+            "text": "Indicative refinancing options include a Fixed Deposit-linked rate of 36-month Fixed Deposit Mortgage Rate + 1.23% for the first 3 years, short-term fixed rates from 2.38% for the first year, and variable rates from 1.75% for the first year. These are indicative only and I will confirm current terms.",
+            "citations": [
+              "P-HLRF-06",
+              "P-HLRF-10",
+              "P-HLRF-18"
+            ]
+          },
+          {
+            "section": "talking_point",
+            "text": "Your S$138,574 time deposit matures on 2026-11-17. For reference, indicative promotional SGD rates for S$100,000 - S$249,999 are 0.2500% for 12 - 15 mths and 0.5000% for 18 mth; I will confirm current terms, as promotions apply to fresh funds placed at a branch.",
+            "citations": [
+              "C-SIG-1",
+              "P-TD-35",
+              "P-TD-36",
+              "P-TD-60"
+            ]
+          },
+          {
+            "section": "talking_point",
+            "text": "You mentioned wanting to save regularly for your child's education. If suitable after an assessment, unit trusts offer monthly investments from as low as S$100 a month (indicative, to be confirmed), with diversification across assets.",
+            "citations": [
+              "C-INT-I00262",
+              "P-UT-13",
+              "P-UT-05"
+            ]
+          },
+          {
+            "section": "question",
+            "text": "When the deposit matures, would you prefer to keep the funds in deposits, or are you open to discussing part of it for longer-term goals?",
+            "citations": [
+              "C-SIG-1",
+              "C-SIG-3"
+            ]
+          },
+          {
+            "section": "question",
+            "text": "For your home loan, do you value fixed monthly payments for budgeting, or are you comfortable with payments that can change?",
+            "citations": [
+              "P-HLRF-11",
+              "P-HLRF-20"
+            ]
+          },
+          {
+            "section": "question",
+            "text": "How much would you like to set aside each month for your child's education, and over what time frame?",
+            "citations": [
+              "C-INT-I00262"
+            ]
+          },
+          {
+            "section": "caution",
+            "text": "Unit trusts are investment products: assess suitability before any recommendation, even though the risk profile on file is Balanced. Do not quote the model portfolio returns, which are stale back-tested figures from March 2016, and note the public data lists no key risks.",
+            "citations": [
+              "C-PRO-2",
+              "P-UT-09",
+              "P-UT-11",
+              "P-UT-19"
+            ]
+          },
+          {
+            "section": "caution",
+            "text": "Avoid SIBOR-based refinancing packages from the product data; they are stale as SIBOR has been retired in Singapore.",
+            "citations": [
+              "P-HLRF-01",
+              "P-HLRF-14"
+            ]
+          },
+          {
+            "section": "caution",
+            "text": "The client complained about a fall-below fee on 2026-07-08, and no salary was credited in the last 30 days; handle fees sensitively and check whether account arrangements have changed.",
+            "citations": [
+              "C-INT-I00261",
+              "C-ACT-1"
+            ]
+          }
+        ]
+      },
+      {
+        "client_id": "C0136",
+        "generator": "claude-opus-5-5",
+        "error": null,
+        "latency_s": 12.0,
+        "n_points": 12,
+        "pass": 11,
+        "warn": 0,
+        "fail": 1,
+        "pass_rate": 0.917,
+        "citation_validity": 1.0,
+        "issues": [
+          {
+            "check": "numbers_grounded",
+            "severity": "fail",
+            "detail": "Numbers not found in cited facts: [360.0]"
+          },
+          {
+            "check": "product_grounded",
+            "severity": "fail",
+            "detail": "Mentions '360 Account' without citing a fact about it."
+          }
+        ],
+        "points": [
+          {
+            "section": "opener",
+            "text": "Siti, thank you for your time today. When we met at the branch in August you asked about ways to earn more on idle cash, and in May you mentioned reviewing your mortgage, so I'd like to cover both.",
+            "citations": [
+              "C-INT-I00266",
+              "C-INT-I00265"
+            ]
+          },
+          {
+            "section": "talking_point",
+            "text": "Your 360 Account balance of S$262,130 is S$192,130 above the S$70,000 bonus-interest cap, so that excess earns only base interest.",
+            "citations": [
+              "C-H-H00279",
+              "C-SIG-1"
+            ]
+          },
+          {
+            "section": "talking_point",
+            "text": "Your existing Time Deposit of S$112,192 matures on 2026-12-10. For S$100,000 - S$249,999, indicative promotional rates include 0.2500% p.a. for 12 - 15 months and 0.5500% p.a. for 24 months; I will confirm current terms before you decide.",
+            "citations": [
+              "C-H-H00281",
+              "P-TD-35",
+              "P-TD-37"
+            ]
+          },
+          {
+            "section": "talking_point",
+            "text": "Your home loan lock-in ends on 2027-01-21, in 107 days, with S$1,095,514 outstanding on a variable board-rate package. Indicative refinancing options include variable rates from 1.75% for the first year or short-term fixed rates from 2.38% for the first year; I will confirm current terms.",
+            "citations": [
+              "C-SIG-2",
+              "C-H-H00282",
+              "P-HLRF-18",
+              "P-HLRF-10"
+            ]
+          },
+          {
+            "section": "talking_point",
+            "text": "Fixed rates give fixed monthly payments for budgeting but tend to be higher than other packages, while variable rates can change with the OCBC board rate.",
+            "citations": [
+              "P-HLRF-11",
+              "P-HLRF-13",
+              "P-HLRF-20"
+            ]
+          },
+          {
+            "section": "talking_point",
+            "text": "Your risk profile on file is Balanced and you have no investments. Unit trusts pool money across diversified assets managed by professional fund managers, with indicative minimums from S$1,000 lump sum or S$100 a month; I will confirm current terms.",
+            "citations": [
+              "C-SIG-4",
+              "P-UT-02",
+              "P-UT-04",
+              "P-UT-05",
+              "P-UT-12",
+              "P-UT-13"
+            ]
+          },
+          {
+            "section": "question",
+            "text": "How much of your cash might you need over the next one to two years, and how much could be set aside for longer?",
+            "citations": [
+              "C-SIG-3"
+            ]
+          },
+          {
+            "section": "question",
+            "text": "For your mortgage after the lock-in ends, do you prefer payment certainty or a lower starting rate that can change?",
+            "citations": [
+              "C-SIG-2",
+              "P-HLRF-11",
+              "P-HLRF-20"
+            ]
+          },
+          {
+            "section": "question",
+            "text": "Would you be open to discussing investments, including whether to use cash or SRS for selected funds?",
+            "citations": [
+              "C-SIG-4",
+              "P-UT-15",
+              "P-UT-17",
+              "P-UT-18"
+            ]
+          },
+          {
+            "section": "caution",
+            "text": "Time Deposit promotions apply only to fresh funds placed at a branch, so moving money from the 360 Account may not qualify; all rates are indicative and must be confirmed.",
+            "citations": [
+              "P-TD-60"
+            ]
+          },
+          {
+            "section": "caution",
+            "text": "Complete a suitability assessment before discussing any unit trust; public data lists no key risks, and do not quote the March 2016 back-tested model portfolio returns as they are outdated.",
+            "citations": [
+              "P-UT-19",
+              "P-UT-09",
+              "P-UT-11"
+            ]
+          },
+          {
+            "section": "caution",
+            "text": "Avoid SIBOR-based refinancing packages from the product data; SIBOR has been retired and those details are outdated.",
+            "citations": [
+              "P-HLRF-01",
+              "P-HLRF-14"
+            ]
+          }
+        ]
+      },
+      {
+        "client_id": "C0292",
+        "generator": "claude-opus-5-5",
+        "error": null,
+        "latency_s": 13.2,
+        "n_points": 11,
+        "pass": 9,
+        "warn": 2,
+        "fail": 0,
+        "pass_rate": 0.818,
+        "citation_validity": 1.0,
+        "issues": [
+          {
+            "check": "indicative_caveat",
+            "severity": "warn",
+            "detail": "Quotes a product figure without saying it is indicative / to be confirmed."
+          },
+          {
+            "check": "term_grounded",
+            "severity": "warn",
+            "detail": "Mentions 'insurance' which is not in the cited facts."
+          }
+        ],
+        "points": [
+          {
+            "section": "opener",
+            "text": "Thank you for coming in, Joanne. Since your home loan lock-in ends soon and you've asked before about earning more on idle cash, I thought we could review both today.",
+            "citations": [
+              "C-SIG-1",
+              "C-INT-I00577"
+            ]
+          },
+          {
+            "section": "talking_point",
+            "text": "Your home loan (H00620) has S$706,488 outstanding on a 'Short-term fixed' package, and the lock-in ends on 2026-11-08, which is 33 days away. This is a good time to review your options.",
+            "citations": [
+              "C-H-H00620",
+              "C-SIG-1"
+            ]
+          },
+          {
+            "section": "talking_point",
+            "text": "Our refinancing packages include short-term fixed rates from 2.38% for the first year, variable rates from 1.75% for the first year, and Fixed Deposit-linked rates at the 36-month Fixed Deposit Mortgage Rate + 1.23% for the first 3 years. These are indicative and I will confirm current terms.",
+            "citations": [
+              "P-HLRF-10",
+              "P-HLRF-18",
+              "P-HLRF-06"
+            ]
+          },
+          {
+            "section": "talking_point",
+            "text": "The trade-off: fixed rates give fixed monthly payments and protect you from rate fluctuations for the first 1-2 years but tend to be higher, while variable rates are lower but can change with the OCBC board rate.",
+            "citations": [
+              "P-HLRF-11",
+              "P-HLRF-12",
+              "P-HLRF-13",
+              "P-HLRF-19",
+              "P-HLRF-20"
+            ]
+          },
+          {
+            "section": "talking_point",
+            "text": "You have S$50,402 in your Bonus+ Savings Account. The 360 Account gives bonus interest on the first S$70,000, for example 1.2% per year when you credit a salary of at least S$2,000 through GIRO, plus base interest of 0.05% per year. These rates are indicative and I will confirm current terms.",
+            "citations": [
+              "C-H-H00618",
+              "C-SIG-2",
+              "P-360-07",
+              "P-360-12"
+            ]
+          },
+          {
+            "section": "talking_point",
+            "text": "If some cash isn't needed soon, a Singapore Dollar time deposit is another option; indicative promotional rates for >$50,000 - S$99,999 are 0.2500% for 12 - 15 mths and 0.6500% for 36 mth. Promotions need fresh funds placed at a branch, and I will confirm current terms.",
+            "citations": [
+              "P-TD-26",
+              "P-TD-29",
+              "P-TD-60"
+            ]
+          },
+          {
+            "section": "question",
+            "text": "What matters more to you for the next home loan package: predictable monthly payments or the lowest possible starting rate?",
+            "citations": [
+              "P-HLRF-11",
+              "P-HLRF-19"
+            ]
+          },
+          {
+            "section": "question",
+            "text": "How much of your savings might you need in the next year or so, and how much could be set aside longer?",
+            "citations": [
+              "C-SIG-2",
+              "C-SIG-3"
+            ]
+          },
+          {
+            "section": "question",
+            "text": "You mentioned a fall-below fee last month. Can you tell me more about what happened so we can avoid it going forward?",
+            "citations": [
+              "C-INT-I00578"
+            ]
+          },
+          {
+            "section": "caution",
+            "text": "The client complained about a fall-below fee on 2026-09-04; note the 360 Account has a S$3,000 minimum average daily balance and a S$2 fee (waived for the first year), indicative only. Also, the time deposit promotion requires fresh funds, so moving existing OCBC balances may not qualify.",
+            "citations": [
+              "C-INT-I00578",
+              "P-360-05",
+              "P-360-06",
+              "P-TD-60"
+            ]
+          },
+          {
+            "section": "caution",
+            "text": "Avoid SIBOR-based refinancing packages in the product data; they are stale as SIBOR has been retired in Singapore. The 360 insure/invest bonus involves investment or insurance products, so suitability must be assessed first (risk profile on file: Balanced).",
+            "citations": [
+              "P-HLRF-01",
+              "P-HLRF-14",
+              "P-360-10",
+              "C-PRO-2"
+            ]
+          }
+        ]
+      }
+    ],
+    "fallback_rate": 0.0,
+    "mean_pass_rate": 0.912,
+    "mean_citation_validity": 1.0,
+    "total_fail_points": 1
+  }
+}

@@ -1,0 +1,401 @@
+client_id,name,age,residency,occupation,monthly_income_sgd,risk_profile,rm_id,client_since,source,as_of
+C0001,Mei Xin Lim,48,Singapore Citizen,Nurse,10600,Growth,RM01,2015-02-22,synthetic_crm.client_profile,2026-10-06
+C0002,Joanne Yusof,45,Singapore Citizen,Sales director,7200,Growth,RM02,2019-01-24,synthetic_crm.client_profile,2026-10-06
+C0003,Kumar Goh,44,Singapore Citizen,Lawyer,9200,Conservative,RM03,2022-08-11,synthetic_crm.client_profile,2026-10-06
+C0004,Farhan Nair,56,S Pass,Teacher,6600,Growth,RM04,2020-08-02,synthetic_crm.client_profile,2026-10-06
+C0005,Hui Min Goh,38,Singapore Citizen,Sales director,9500,Balanced,RM01,2025-07-09,synthetic_crm.client_profile,2026-10-06
+C0006,Nurul Chen,73,Singapore Citizen,Retiree,0,Conservative,RM02,2011-11-02,synthetic_crm.client_profile,2026-10-06
+C0007,Ravi Ng,52,Singapore Citizen,Business owner,12800,Conservative,RM03,2017-04-02,synthetic_crm.client_profile,2026-10-06
+C0008,Joanne Yusof,54,Employment Pass,Nurse,9600,Balanced,RM04,2011-12-16,synthetic_crm.client_profile,2026-10-06
+C0009,Kumar Wong,56,Singapore Citizen,Teacher,8100,Balanced,RM01,2013-10-28,synthetic_crm.client_profile,2026-10-06
+C0010,Benjamin Goh,23,Singapore Citizen,Nurse,6200,Conservative,RM02,2022-04-27,synthetic_crm.client_profile,2026-10-06
+C0011,Shu Fen Lee,31,Singapore PR,Doctor,11800,Balanced,RM03,2017-03-28,synthetic_crm.client_profile,2026-10-06
+C0012,Li Ting Tan,53,Singapore Citizen,Analyst,10900,Conservative,RM04,2021-10-29,synthetic_crm.client_profile,2026-10-06
+C0013,Kumar Tan,26,Singapore Citizen,Lawyer,4100,Conservative,RM01,2019-04-27,synthetic_crm.client_profile,2026-10-06
+C0014,Wen Hao Teo,38,Singapore Citizen,Nurse,7900,Growth,RM02,2021-02-11,synthetic_crm.client_profile,2026-10-06
+C0015,Joanne Nair,38,Singapore Citizen,Doctor,6000,Conservative,RM03,2011-12-01,synthetic_crm.client_profile,2026-10-06
+C0016,Ravi Goh,50,Singapore Citizen,Analyst,9100,Conservative,RM04,2015-05-12,synthetic_crm.client_profile,2026-10-06
+C0017,Farhan Chen,20,Singapore Citizen,Student,0,Growth,RM01,2024-10-28,synthetic_crm.client_profile,2026-10-06
+C0018,Grace Koh,49,Singapore PR,Lawyer,6000,Balanced,RM02,2010-10-29,synthetic_crm.client_profile,2026-10-06
+C0019,Priya Goh,30,Singapore Citizen,Sales director,4500,Conservative,RM03,2011-11-19,synthetic_crm.client_profile,2026-10-06
+C0020,Benjamin Goh,50,Singapore PR,Civil servant,5400,Balanced,RM04,2012-08-12,synthetic_crm.client_profile,2026-10-06
+C0021,Farhan Lim,47,Singapore Citizen,Business owner,16300,Balanced,RM01,2015-11-24,synthetic_crm.client_profile,2026-10-06
+C0022,Ravi Teo,47,Singapore Citizen,Doctor,11100,Balanced,RM02,2023-12-03,synthetic_crm.client_profile,2026-10-06
+C0023,Zara Goh,35,Singapore Citizen,Teacher,6000,Conservative,RM03,2020-09-16,synthetic_crm.client_profile,2026-10-06
+C0024,Ravi Lim,23,Singapore Citizen,Lawyer,8500,Balanced,RM04,2024-11-26,synthetic_crm.client_profile,2026-10-06
+C0025,Benjamin Koh,49,Singapore Citizen,Doctor,2500,Balanced,RM01,2021-12-23,synthetic_crm.client_profile,2026-10-06
+C0026,Wei Ling Tan,35,Singapore Citizen,Teacher,12400,Balanced,RM02,2011-12-27,synthetic_crm.client_profile,2026-10-06
+C0027,Farhan Teo,20,Singapore Citizen,Student,0,Balanced,RM03,2014-08-15,synthetic_crm.client_profile,2026-10-06
+C0028,Li Ting Ong,45,Singapore Citizen,Sales director,11900,Conservative,RM04,2023-12-22,synthetic_crm.client_profile,2026-10-06
+C0029,Benjamin Rahman,73,Employment Pass,Retiree,0,Conservative,RM01,2013-01-15,synthetic_crm.client_profile,2026-10-06
+C0030,Zara Lee,31,Singapore Citizen,Teacher,8800,Growth,RM02,2018-01-14,synthetic_crm.client_profile,2026-10-06
+C0031,Arjun Chen,50,Employment Pass,Analyst,3900,Balanced,RM03,2010-06-17,synthetic_crm.client_profile,2026-10-06
+C0032,Ethan Goh,46,Singapore PR,Teacher,8400,Balanced,RM04,2021-03-14,synthetic_crm.client_profile,2026-10-06
+C0033,Siti Chua,59,Employment Pass,Civil servant,15800,Conservative,RM01,2022-01-18,synthetic_crm.client_profile,2026-10-06
+C0034,Arjun Yusof,67,Singapore Citizen,Retiree,0,Conservative,RM02,2014-05-11,synthetic_crm.client_profile,2026-10-06
+C0035,Priya Rahman,64,Singapore PR,Doctor,4200,Growth,RM03,2018-04-16,synthetic_crm.client_profile,2026-10-06
+C0036,Hui Min Wong,41,Singapore Citizen,Analyst,8600,Balanced,RM04,2010-10-29,synthetic_crm.client_profile,2026-10-06
+C0037,Joanne Lee,43,Singapore Citizen,Doctor,4800,Growth,RM01,2025-10-26,synthetic_crm.client_profile,2026-10-06
+C0038,Mei Xin Lim,25,Employment Pass,Sales director,7400,Balanced,RM02,2010-10-06,synthetic_crm.client_profile,2026-10-06
+C0039,Jun Jie Chen,58,Singapore Citizen,Business owner,9500,Growth,RM03,2018-04-16,synthetic_crm.client_profile,2026-10-06
+C0040,Shu Fen Lim,47,Singapore Citizen,Engineer,8000,Balanced,RM04,2026-02-11,synthetic_crm.client_profile,2026-10-06
+C0041,Wen Hao Ng,70,Employment Pass,Retiree,0,Conservative,RM01,2011-05-27,synthetic_crm.client_profile,2026-10-06
+C0042,Joanne Teo,23,Employment Pass,Nurse,8500,Balanced,RM02,2024-06-25,synthetic_crm.client_profile,2026-10-06
+C0043,Nurul Ismail,17,Singapore Citizen,Student,0,Growth,RM03,2014-04-03,synthetic_crm.client_profile,2026-10-06
+C0044,Siti Teo,36,Employment Pass,Nurse,4700,Balanced,RM04,2017-10-14,synthetic_crm.client_profile,2026-10-06
+C0045,Shu Fen Yusof,25,Singapore Citizen,Teacher,4200,Conservative,RM01,2018-09-01,synthetic_crm.client_profile,2026-10-06
+C0046,Jun Jie Rahman,48,Singapore Citizen,Analyst,17400,Growth,RM02,2016-09-17,synthetic_crm.client_profile,2026-10-06
+C0047,Mei Xin Lim,38,Singapore Citizen,Doctor,6800,Conservative,RM03,2023-02-15,synthetic_crm.client_profile,2026-10-06
+C0048,Aisha Teo,36,Singapore Citizen,Doctor,9200,Conservative,RM04,2010-08-02,synthetic_crm.client_profile,2026-10-06
+C0049,Aisha Tan,44,Singapore Citizen,Analyst,5100,Conservative,RM01,2022-08-06,synthetic_crm.client_profile,2026-10-06
+C0050,Daniel Chen,66,Singapore Citizen,Retiree,0,Conservative,RM02,2019-08-10,synthetic_crm.client_profile,2026-10-06
+C0051,Shu Fen Chua,28,Singapore Citizen,Engineer,8300,Growth,RM03,2011-07-13,synthetic_crm.client_profile,2026-10-06
+C0052,Wen Hao Lee,50,Singapore PR,Teacher,5700,Balanced,RM04,2013-11-03,synthetic_crm.client_profile,2026-10-06
+C0053,Aisha Chen,42,Singapore Citizen,Civil servant,7900,Balanced,RM01,2012-08-07,synthetic_crm.client_profile,2026-10-06
+C0054,Priya Chua,46,Singapore Citizen,Teacher,6000,Conservative,RM02,2018-08-18,synthetic_crm.client_profile,2026-10-06
+C0055,Nurul Chua,22,Singapore PR,Analyst,6200,Conservative,RM03,2020-03-11,synthetic_crm.client_profile,2026-10-06
+C0056,Ethan Koh,62,Singapore Citizen,Nurse,17400,Growth,RM04,2021-01-01,synthetic_crm.client_profile,2026-10-06
+C0057,Kumar Koh,50,Singapore Citizen,Teacher,6300,Balanced,RM01,2016-03-02,synthetic_crm.client_profile,2026-10-06
+C0058,Grace Chen,27,Singapore Citizen,Analyst,6600,Balanced,RM02,2016-06-17,synthetic_crm.client_profile,2026-10-06
+C0059,Zara Chen,54,Employment Pass,Analyst,7000,Balanced,RM03,2010-12-28,synthetic_crm.client_profile,2026-10-06
+C0060,Kumar Lim,52,Singapore Citizen,Consultant,4400,Conservative,RM04,2022-03-12,synthetic_crm.client_profile,2026-10-06
+C0061,Benjamin Goh,48,Singapore Citizen,Doctor,9900,Balanced,RM01,2018-10-26,synthetic_crm.client_profile,2026-10-06
+C0062,Ravi Ng,49,Singapore Citizen,Analyst,2600,Conservative,RM02,2011-06-06,synthetic_crm.client_profile,2026-10-06
+C0063,Farhan Ong,64,Singapore PR,Lawyer,11100,Conservative,RM03,2013-12-02,synthetic_crm.client_profile,2026-10-06
+C0064,Joanne Koh,47,Singapore Citizen,Civil servant,8300,Conservative,RM04,2020-06-07,synthetic_crm.client_profile,2026-10-06
+C0065,Zara Nair,49,Singapore PR,Engineer,4300,Balanced,RM01,2020-02-17,synthetic_crm.client_profile,2026-10-06
+C0066,Joanne Ng,32,S Pass,Business owner,11100,Balanced,RM02,2020-03-29,synthetic_crm.client_profile,2026-10-06
+C0067,Siti Ong,55,Singapore Citizen,Lawyer,23400,Balanced,RM03,2016-02-06,synthetic_crm.client_profile,2026-10-06
+C0068,Wei Ling Nair,37,Singapore Citizen,Analyst,14100,Balanced,RM04,2013-02-09,synthetic_crm.client_profile,2026-10-06
+C0069,Jun Jie Nair,32,Singapore Citizen,Engineer,9500,Growth,RM01,2013-10-23,synthetic_crm.client_profile,2026-10-06
+C0070,Priya Tan,44,S Pass,Nurse,9200,Balanced,RM02,2024-07-11,synthetic_crm.client_profile,2026-10-06
+C0071,Siti Yusof,45,Singapore Citizen,Nurse,8200,Conservative,RM03,2025-10-03,synthetic_crm.client_profile,2026-10-06
+C0072,Hui Min Rahman,46,Singapore Citizen,Civil servant,6000,Conservative,RM04,2015-10-18,synthetic_crm.client_profile,2026-10-06
+C0073,Li Ting Chen,55,Employment Pass,Civil servant,3800,Conservative,RM01,2022-06-06,synthetic_crm.client_profile,2026-10-06
+C0074,Zara Yusof,54,Employment Pass,Consultant,8000,Conservative,RM02,2015-02-17,synthetic_crm.client_profile,2026-10-06
+C0075,Siti Ismail,33,Singapore PR,Doctor,6900,Growth,RM03,2014-05-20,synthetic_crm.client_profile,2026-10-06
+C0076,Hafiz Tan,35,Singapore PR,Civil servant,4700,Growth,RM04,2021-12-01,synthetic_crm.client_profile,2026-10-06
+C0077,Arjun Tan,24,Employment Pass,Analyst,4300,Balanced,RM01,2025-07-18,synthetic_crm.client_profile,2026-10-06
+C0078,Siti Chua,56,Singapore Citizen,Business owner,5600,Balanced,RM02,2010-08-27,synthetic_crm.client_profile,2026-10-06
+C0079,Benjamin Wong,41,Singapore Citizen,Civil servant,8700,Balanced,RM03,2011-03-13,synthetic_crm.client_profile,2026-10-06
+C0080,Farhan Ng,58,Singapore Citizen,Teacher,12800,Balanced,RM04,2023-11-11,synthetic_crm.client_profile,2026-10-06
+C0081,Marcus Lim,71,Singapore Citizen,Retiree,0,Conservative,RM01,2011-03-02,synthetic_crm.client_profile,2026-10-06
+C0082,Joanne Lee,59,Singapore PR,Teacher,4800,Balanced,RM02,2023-10-13,synthetic_crm.client_profile,2026-10-06
+C0083,Kenneth Chen,21,Singapore Citizen,Student,0,Conservative,RM03,2016-11-15,synthetic_crm.client_profile,2026-10-06
+C0084,Ravi Lim,39,Singapore Citizen,Lawyer,12700,Balanced,RM04,2017-02-15,synthetic_crm.client_profile,2026-10-06
+C0085,Farhan Wong,40,Singapore Citizen,Analyst,9900,Balanced,RM01,2013-09-17,synthetic_crm.client_profile,2026-10-06
+C0086,Nurul Koh,44,Employment Pass,Analyst,8100,Growth,RM02,2014-07-09,synthetic_crm.client_profile,2026-10-06
+C0087,Aisha Wong,43,Employment Pass,Sales director,4900,Balanced,RM03,2021-03-23,synthetic_crm.client_profile,2026-10-06
+C0088,Arjun Yusof,52,Singapore Citizen,Engineer,12600,Conservative,RM04,2025-05-02,synthetic_crm.client_profile,2026-10-06
+C0089,Jun Jie Ong,39,Employment Pass,Sales director,2900,Growth,RM01,2025-12-25,synthetic_crm.client_profile,2026-10-06
+C0090,Marcus Teo,63,Singapore Citizen,Sales director,5100,Growth,RM02,2024-04-25,synthetic_crm.client_profile,2026-10-06
+C0091,Mei Xin Koh,77,Singapore Citizen,Retiree,0,Conservative,RM03,2013-12-24,synthetic_crm.client_profile,2026-10-06
+C0092,Zara Teo,22,Singapore Citizen,Nurse,6300,Conservative,RM04,2014-03-16,synthetic_crm.client_profile,2026-10-06
+C0093,Mei Xin Yusof,53,S Pass,Analyst,5100,Balanced,RM01,2023-01-13,synthetic_crm.client_profile,2026-10-06
+C0094,Aisha Goh,62,Singapore Citizen,Civil servant,6600,Conservative,RM02,2012-12-13,synthetic_crm.client_profile,2026-10-06
+C0095,Zara Ng,47,Singapore Citizen,Sales director,16000,Growth,RM03,2011-04-12,synthetic_crm.client_profile,2026-10-06
+C0096,Hui Min Goh,22,Singapore Citizen,Engineer,10000,Balanced,RM04,2025-12-30,synthetic_crm.client_profile,2026-10-06
+C0097,Siti Yusof,20,Singapore PR,Student,0,Balanced,RM01,2012-10-27,synthetic_crm.client_profile,2026-10-06
+C0098,Joanne Nair,40,Singapore Citizen,Sales director,8100,Conservative,RM02,2020-05-24,synthetic_crm.client_profile,2026-10-06
+C0099,Ravi Nair,49,Singapore Citizen,Business owner,8500,Growth,RM03,2012-09-08,synthetic_crm.client_profile,2026-10-06
+C0100,Shu Fen Lee,33,Singapore Citizen,Doctor,3900,Conservative,RM04,2018-04-18,synthetic_crm.client_profile,2026-10-06
+C0101,Zara Chua,43,Singapore Citizen,Consultant,7500,Conservative,RM01,2023-05-26,synthetic_crm.client_profile,2026-10-06
+C0102,Zara Chua,41,Singapore Citizen,Nurse,9600,Conservative,RM02,2021-05-02,synthetic_crm.client_profile,2026-10-06
+C0103,Grace Nair,47,Singapore PR,Doctor,8000,Balanced,RM03,2010-08-17,synthetic_crm.client_profile,2026-10-06
+C0104,Ethan Rahman,40,Singapore PR,Nurse,2100,Growth,RM04,2010-12-03,synthetic_crm.client_profile,2026-10-06
+C0105,Hafiz Teo,54,Singapore PR,Analyst,4000,Growth,RM01,2017-06-07,synthetic_crm.client_profile,2026-10-06
+C0106,Priya Chen,26,Singapore Citizen,Doctor,18200,Conservative,RM02,2014-04-23,synthetic_crm.client_profile,2026-10-06
+C0107,Joanne Ong,26,Singapore Citizen,Analyst,5600,Growth,RM03,2010-07-26,synthetic_crm.client_profile,2026-10-06
+C0108,Kumar Wong,51,Employment Pass,Engineer,13800,Growth,RM04,2017-05-25,synthetic_crm.client_profile,2026-10-06
+C0109,Wei Ling Chen,54,Singapore Citizen,Teacher,3100,Balanced,RM01,2025-06-11,synthetic_crm.client_profile,2026-10-06
+C0110,Joanne Nair,24,Employment Pass,Nurse,4800,Conservative,RM02,2014-06-23,synthetic_crm.client_profile,2026-10-06
+C0111,Li Ting Goh,35,Singapore Citizen,Doctor,5800,Balanced,RM03,2026-02-22,synthetic_crm.client_profile,2026-10-06
+C0112,Kenneth Lee,50,Singapore Citizen,Sales director,5900,Growth,RM04,2015-07-21,synthetic_crm.client_profile,2026-10-06
+C0113,Joanne Yusof,66,Singapore Citizen,Retiree,0,Conservative,RM01,2014-12-13,synthetic_crm.client_profile,2026-10-06
+C0114,Benjamin Ong,39,Singapore Citizen,Analyst,6300,Conservative,RM02,2015-07-01,synthetic_crm.client_profile,2026-10-06
+C0115,Aisha Chen,23,Singapore Citizen,Business owner,10400,Balanced,RM03,2017-09-25,synthetic_crm.client_profile,2026-10-06
+C0116,Arjun Chua,52,Employment Pass,Doctor,3000,Balanced,RM04,2020-10-02,synthetic_crm.client_profile,2026-10-06
+C0117,Marcus Lim,67,Singapore Citizen,Retiree,0,Conservative,RM01,2025-02-24,synthetic_crm.client_profile,2026-10-06
+C0118,Mei Xin Ong,48,Singapore Citizen,Business owner,8000,Growth,RM02,2020-10-06,synthetic_crm.client_profile,2026-10-06
+C0119,Aisha Pillai,43,Singapore Citizen,Analyst,6100,Conservative,RM03,2011-12-22,synthetic_crm.client_profile,2026-10-06
+C0120,Aisha Wong,50,Singapore PR,Business owner,2000,Conservative,RM04,2016-11-01,synthetic_crm.client_profile,2026-10-06
+C0121,Jun Jie Pillai,25,Singapore Citizen,Teacher,8700,Balanced,RM01,2012-05-01,synthetic_crm.client_profile,2026-10-06
+C0122,Joanne Yusof,49,S Pass,Analyst,11000,Balanced,RM02,2018-08-27,synthetic_crm.client_profile,2026-10-06
+C0123,Hui Min Pillai,37,Singapore PR,Lawyer,10800,Growth,RM03,2024-08-07,synthetic_crm.client_profile,2026-10-06
+C0124,Mei Xin Chen,48,Singapore Citizen,Consultant,11800,Conservative,RM04,2010-12-23,synthetic_crm.client_profile,2026-10-06
+C0125,Benjamin Lim,17,Singapore Citizen,Student,0,Balanced,RM01,2013-09-02,synthetic_crm.client_profile,2026-10-06
+C0126,Farhan Chua,40,Singapore Citizen,Business owner,4300,Balanced,RM02,2019-01-31,synthetic_crm.client_profile,2026-10-06
+C0127,Daniel Chua,51,Singapore Citizen,Teacher,6500,Conservative,RM03,2019-08-19,synthetic_crm.client_profile,2026-10-06
+C0128,Priya Goh,43,Singapore Citizen,Civil servant,6500,Balanced,RM04,2017-06-19,synthetic_crm.client_profile,2026-10-06
+C0129,Daniel Pillai,29,Singapore Citizen,Sales director,6900,Balanced,RM01,2012-07-05,synthetic_crm.client_profile,2026-10-06
+C0130,Daniel Ong,64,Singapore Citizen,Nurse,8400,Balanced,RM02,2012-06-30,synthetic_crm.client_profile,2026-10-06
+C0131,Jun Jie Ng,44,Employment Pass,Sales director,9600,Conservative,RM03,2011-05-28,synthetic_crm.client_profile,2026-10-06
+C0132,Grace Lee,55,Singapore Citizen,Doctor,3200,Balanced,RM04,2022-07-21,synthetic_crm.client_profile,2026-10-06
+C0133,Li Ting Goh,17,Employment Pass,Student,0,Balanced,RM01,2026-02-21,synthetic_crm.client_profile,2026-10-06
+C0134,Joanne Rahman,51,Employment Pass,Civil servant,4600,Balanced,RM02,2022-03-07,synthetic_crm.client_profile,2026-10-06
+C0135,Ethan Chen,72,Singapore Citizen,Retiree,0,Conservative,RM03,2014-07-23,synthetic_crm.client_profile,2026-10-06
+C0136,Siti Lee,55,Singapore Citizen,Civil servant,10000,Balanced,RM04,2016-02-14,synthetic_crm.client_profile,2026-10-06
+C0137,Hafiz Pillai,52,Singapore Citizen,Business owner,8600,Conservative,RM01,2015-10-01,synthetic_crm.client_profile,2026-10-06
+C0138,Hafiz Rahman,67,Singapore Citizen,Retiree,0,Conservative,RM02,2014-06-28,synthetic_crm.client_profile,2026-10-06
+C0139,Li Ting Koh,47,Singapore PR,Doctor,7300,Conservative,RM03,2023-12-08,synthetic_crm.client_profile,2026-10-06
+C0140,Wen Hao Ong,44,S Pass,Doctor,7100,Balanced,RM04,2025-12-14,synthetic_crm.client_profile,2026-10-06
+C0141,Ethan Chua,44,Singapore PR,Analyst,7400,Conservative,RM01,2017-09-14,synthetic_crm.client_profile,2026-10-06
+C0142,Li Ting Pillai,33,Employment Pass,Lawyer,9400,Conservative,RM02,2015-09-05,synthetic_crm.client_profile,2026-10-06
+C0143,Daniel Yusof,57,Singapore Citizen,Doctor,12200,Balanced,RM03,2022-03-10,synthetic_crm.client_profile,2026-10-06
+C0144,Grace Koh,48,Singapore PR,Sales director,13900,Growth,RM04,2017-03-19,synthetic_crm.client_profile,2026-10-06
+C0145,Aisha Tan,39,Singapore Citizen,Consultant,6600,Balanced,RM01,2013-07-30,synthetic_crm.client_profile,2026-10-06
+C0146,Ethan Ng,35,Singapore Citizen,Sales director,5900,Growth,RM02,2015-05-19,synthetic_crm.client_profile,2026-10-06
+C0147,Hui Min Pillai,37,Singapore PR,Nurse,4100,Growth,RM03,2018-10-04,synthetic_crm.client_profile,2026-10-06
+C0148,Aisha Teo,44,Singapore PR,Lawyer,13400,Balanced,RM04,2014-08-10,synthetic_crm.client_profile,2026-10-06
+C0149,Ethan Yusof,28,Singapore Citizen,Sales director,5000,Conservative,RM01,2013-07-18,synthetic_crm.client_profile,2026-10-06
+C0150,Mei Xin Tan,69,S Pass,Retiree,0,Conservative,RM02,2010-07-12,synthetic_crm.client_profile,2026-10-06
+C0151,Kenneth Ong,68,Singapore Citizen,Retiree,0,Conservative,RM03,2012-02-15,synthetic_crm.client_profile,2026-10-06
+C0152,Li Ting Chua,49,Singapore Citizen,Business owner,11200,Growth,RM04,2019-09-20,synthetic_crm.client_profile,2026-10-06
+C0153,Hui Min Pillai,37,Singapore Citizen,Engineer,7400,Conservative,RM01,2019-12-17,synthetic_crm.client_profile,2026-10-06
+C0154,Nurul Nair,49,Singapore Citizen,Engineer,10200,Balanced,RM02,2022-05-08,synthetic_crm.client_profile,2026-10-06
+C0155,Priya Chen,45,Singapore Citizen,Business owner,11100,Balanced,RM03,2023-04-08,synthetic_crm.client_profile,2026-10-06
+C0156,Arjun Lim,43,Singapore PR,Doctor,4400,Balanced,RM04,2010-12-25,synthetic_crm.client_profile,2026-10-06
+C0157,Daniel Rahman,17,Singapore Citizen,Student,0,Balanced,RM01,2021-06-05,synthetic_crm.client_profile,2026-10-06
+C0158,Li Ting Chen,47,S Pass,Civil servant,11700,Conservative,RM02,2019-09-15,synthetic_crm.client_profile,2026-10-06
+C0159,Mei Xin Lim,61,Employment Pass,Doctor,5900,Balanced,RM03,2019-10-29,synthetic_crm.client_profile,2026-10-06
+C0160,Mei Xin Ng,38,Employment Pass,Analyst,7400,Balanced,RM04,2017-11-23,synthetic_crm.client_profile,2026-10-06
+C0161,Shu Fen Chua,50,Singapore PR,Sales director,3400,Balanced,RM01,2025-07-13,synthetic_crm.client_profile,2026-10-06
+C0162,Daniel Ong,35,Singapore Citizen,Teacher,20500,Conservative,RM02,2023-05-24,synthetic_crm.client_profile,2026-10-06
+C0163,Arjun Goh,33,Singapore Citizen,Civil servant,8900,Balanced,RM03,2024-02-02,synthetic_crm.client_profile,2026-10-06
+C0164,Hafiz Wong,64,Singapore Citizen,Civil servant,9500,Conservative,RM04,2025-08-21,synthetic_crm.client_profile,2026-10-06
+C0165,Jun Jie Ismail,45,Singapore Citizen,Consultant,5500,Balanced,RM01,2019-12-21,synthetic_crm.client_profile,2026-10-06
+C0166,Nurul Ng,40,S Pass,Analyst,7600,Balanced,RM02,2012-12-20,synthetic_crm.client_profile,2026-10-06
+C0167,Wen Hao Wong,48,Singapore Citizen,Consultant,9800,Conservative,RM03,2020-03-07,synthetic_crm.client_profile,2026-10-06
+C0168,Ethan Lee,46,Singapore Citizen,Doctor,11400,Balanced,RM04,2017-10-27,synthetic_crm.client_profile,2026-10-06
+C0169,Marcus Yusof,48,Singapore PR,Analyst,1600,Balanced,RM01,2012-11-21,synthetic_crm.client_profile,2026-10-06
+C0170,Benjamin Tan,50,Singapore Citizen,Doctor,4100,Balanced,RM02,2015-10-11,synthetic_crm.client_profile,2026-10-06
+C0171,Kumar Wong,43,Employment Pass,Nurse,8900,Balanced,RM03,2021-08-28,synthetic_crm.client_profile,2026-10-06
+C0172,Priya Rahman,43,Singapore Citizen,Nurse,3700,Balanced,RM04,2013-07-19,synthetic_crm.client_profile,2026-10-06
+C0173,Ravi Chua,40,Employment Pass,Doctor,6900,Conservative,RM01,2019-08-24,synthetic_crm.client_profile,2026-10-06
+C0174,Farhan Lee,59,Singapore Citizen,Sales director,5900,Growth,RM02,2017-11-14,synthetic_crm.client_profile,2026-10-06
+C0175,Wen Hao Yusof,47,Singapore Citizen,Business owner,10500,Balanced,RM03,2021-08-13,synthetic_crm.client_profile,2026-10-06
+C0176,Hui Min Rahman,39,Employment Pass,Civil servant,5700,Balanced,RM04,2014-07-20,synthetic_crm.client_profile,2026-10-06
+C0177,Marcus Nair,42,Singapore Citizen,Sales director,8700,Growth,RM01,2020-12-20,synthetic_crm.client_profile,2026-10-06
+C0178,Grace Chua,43,Singapore Citizen,Lawyer,5000,Conservative,RM02,2013-01-30,synthetic_crm.client_profile,2026-10-06
+C0179,Hafiz Teo,53,Singapore Citizen,Engineer,6000,Conservative,RM03,2013-06-07,synthetic_crm.client_profile,2026-10-06
+C0180,Joanne Wong,36,Singapore PR,Doctor,3200,Conservative,RM04,2012-05-20,synthetic_crm.client_profile,2026-10-06
+C0181,Priya Teo,39,Employment Pass,Teacher,9900,Conservative,RM01,2010-12-18,synthetic_crm.client_profile,2026-10-06
+C0182,Benjamin Koh,17,Singapore Citizen,Student,0,Conservative,RM02,2011-02-01,synthetic_crm.client_profile,2026-10-06
+C0183,Jun Jie Ismail,43,Singapore PR,Engineer,13200,Conservative,RM03,2019-11-14,synthetic_crm.client_profile,2026-10-06
+C0184,Ethan Pillai,36,Employment Pass,Sales director,12000,Growth,RM04,2019-03-03,synthetic_crm.client_profile,2026-10-06
+C0185,Benjamin Goh,30,Singapore Citizen,Civil servant,10300,Conservative,RM01,2016-03-06,synthetic_crm.client_profile,2026-10-06
+C0186,Zara Ong,36,Singapore PR,Consultant,4500,Balanced,RM02,2010-09-07,synthetic_crm.client_profile,2026-10-06
+C0187,Ravi Nair,45,Singapore PR,Doctor,3600,Conservative,RM03,2022-05-27,synthetic_crm.client_profile,2026-10-06
+C0188,Li Ting Rahman,45,Employment Pass,Lawyer,6700,Growth,RM04,2022-09-28,synthetic_crm.client_profile,2026-10-06
+C0189,Wei Ling Goh,34,Employment Pass,Business owner,4200,Conservative,RM01,2013-07-21,synthetic_crm.client_profile,2026-10-06
+C0190,Siti Goh,41,Singapore Citizen,Nurse,6500,Conservative,RM02,2010-05-12,synthetic_crm.client_profile,2026-10-06
+C0191,Li Ting Rahman,62,Singapore Citizen,Lawyer,5400,Conservative,RM03,2010-08-23,synthetic_crm.client_profile,2026-10-06
+C0192,Priya Wong,50,Singapore Citizen,Teacher,7700,Growth,RM04,2015-09-06,synthetic_crm.client_profile,2026-10-06
+C0193,Mei Xin Wong,53,Singapore PR,Doctor,5400,Balanced,RM01,2018-04-07,synthetic_crm.client_profile,2026-10-06
+C0194,Wen Hao Lim,34,Singapore PR,Engineer,7000,Growth,RM02,2024-09-14,synthetic_crm.client_profile,2026-10-06
+C0195,Ravi Wong,61,Singapore PR,Teacher,9900,Balanced,RM03,2025-05-26,synthetic_crm.client_profile,2026-10-06
+C0196,Kumar Ong,53,Singapore Citizen,Nurse,4900,Balanced,RM04,2019-08-08,synthetic_crm.client_profile,2026-10-06
+C0197,Ravi Rahman,40,Employment Pass,Doctor,6500,Conservative,RM01,2023-12-07,synthetic_crm.client_profile,2026-10-06
+C0198,Aisha Ismail,38,Singapore Citizen,Business owner,4400,Balanced,RM02,2025-05-18,synthetic_crm.client_profile,2026-10-06
+C0199,Wei Ling Nair,40,Singapore Citizen,Engineer,6400,Conservative,RM03,2013-02-22,synthetic_crm.client_profile,2026-10-06
+C0200,Priya Yusof,17,Singapore Citizen,Student,0,Growth,RM04,2025-07-11,synthetic_crm.client_profile,2026-10-06
+C0201,Li Ting Rahman,41,Singapore PR,Engineer,13900,Balanced,RM01,2017-08-30,synthetic_crm.client_profile,2026-10-06
+C0202,Joanne Rahman,68,Singapore Citizen,Retiree,0,Conservative,RM02,2020-05-17,synthetic_crm.client_profile,2026-10-06
+C0203,Joanne Koh,36,Singapore Citizen,Nurse,10300,Conservative,RM03,2024-11-07,synthetic_crm.client_profile,2026-10-06
+C0204,Kenneth Yusof,58,Singapore PR,Engineer,11800,Balanced,RM04,2024-01-15,synthetic_crm.client_profile,2026-10-06
+C0205,Ethan Chen,45,Singapore Citizen,Doctor,15300,Conservative,RM01,2012-05-10,synthetic_crm.client_profile,2026-10-06
+C0206,Priya Tan,38,Singapore Citizen,Consultant,3400,Growth,RM02,2017-03-22,synthetic_crm.client_profile,2026-10-06
+C0207,Ravi Tan,69,Singapore Citizen,Retiree,0,Conservative,RM03,2011-06-08,synthetic_crm.client_profile,2026-10-06
+C0208,Li Ting Lee,17,Singapore Citizen,Student,0,Balanced,RM04,2022-01-31,synthetic_crm.client_profile,2026-10-06
+C0209,Nurul Ismail,21,Singapore Citizen,Student,0,Conservative,RM01,2024-02-12,synthetic_crm.client_profile,2026-10-06
+C0210,Farhan Teo,25,Singapore Citizen,Analyst,11200,Conservative,RM02,2026-01-25,synthetic_crm.client_profile,2026-10-06
+C0211,Joanne Ng,39,Employment Pass,Teacher,8800,Balanced,RM03,2013-01-13,synthetic_crm.client_profile,2026-10-06
+C0212,Nurul Wong,40,Singapore Citizen,Lawyer,10600,Conservative,RM04,2021-06-08,synthetic_crm.client_profile,2026-10-06
+C0213,Kenneth Wong,64,Singapore Citizen,Nurse,4300,Conservative,RM01,2024-12-24,synthetic_crm.client_profile,2026-10-06
+C0214,Nurul Pillai,34,Singapore Citizen,Doctor,5200,Balanced,RM02,2020-10-12,synthetic_crm.client_profile,2026-10-06
+C0215,Kumar Ong,56,Employment Pass,Teacher,5700,Conservative,RM03,2014-04-04,synthetic_crm.client_profile,2026-10-06
+C0216,Siti Goh,18,Singapore Citizen,Student,0,Growth,RM04,2016-05-18,synthetic_crm.client_profile,2026-10-06
+C0217,Kumar Ng,43,Singapore Citizen,Doctor,9000,Balanced,RM01,2010-05-23,synthetic_crm.client_profile,2026-10-06
+C0218,Zara Ong,54,Singapore Citizen,Lawyer,9600,Growth,RM02,2013-06-01,synthetic_crm.client_profile,2026-10-06
+C0219,Ravi Chen,27,Singapore Citizen,Analyst,2300,Balanced,RM03,2020-03-03,synthetic_crm.client_profile,2026-10-06
+C0220,Jun Jie Chen,44,Employment Pass,Nurse,9900,Balanced,RM04,2024-07-29,synthetic_crm.client_profile,2026-10-06
+C0221,Grace Chua,67,Singapore Citizen,Retiree,0,Conservative,RM01,2013-07-03,synthetic_crm.client_profile,2026-10-06
+C0222,Hafiz Chua,38,Singapore Citizen,Nurse,2900,Balanced,RM02,2010-10-29,synthetic_crm.client_profile,2026-10-06
+C0223,Nurul Ismail,32,Singapore Citizen,Analyst,8500,Conservative,RM03,2025-02-04,synthetic_crm.client_profile,2026-10-06
+C0224,Kenneth Rahman,68,Singapore PR,Retiree,0,Conservative,RM04,2023-07-31,synthetic_crm.client_profile,2026-10-06
+C0225,Daniel Koh,45,Singapore Citizen,Civil servant,5800,Growth,RM01,2014-03-21,synthetic_crm.client_profile,2026-10-06
+C0226,Li Ting Chen,53,Employment Pass,Doctor,9800,Balanced,RM02,2025-05-20,synthetic_crm.client_profile,2026-10-06
+C0227,Benjamin Lee,49,Singapore PR,Consultant,7400,Balanced,RM03,2025-08-09,synthetic_crm.client_profile,2026-10-06
+C0228,Hafiz Wong,40,Singapore Citizen,Business owner,2400,Conservative,RM04,2018-05-02,synthetic_crm.client_profile,2026-10-06
+C0229,Jun Jie Chen,47,Singapore Citizen,Consultant,7200,Conservative,RM01,2020-04-17,synthetic_crm.client_profile,2026-10-06
+C0230,Joanne Wong,37,S Pass,Lawyer,2500,Growth,RM02,2017-09-12,synthetic_crm.client_profile,2026-10-06
+C0231,Hui Min Chen,34,Singapore Citizen,Civil servant,4500,Conservative,RM03,2012-04-09,synthetic_crm.client_profile,2026-10-06
+C0232,Ravi Teo,52,Singapore Citizen,Analyst,6400,Balanced,RM04,2010-08-15,synthetic_crm.client_profile,2026-10-06
+C0233,Marcus Chua,17,Singapore Citizen,Student,0,Balanced,RM01,2022-09-14,synthetic_crm.client_profile,2026-10-06
+C0234,Hafiz Yusof,49,Singapore Citizen,Civil servant,9700,Balanced,RM02,2018-03-05,synthetic_crm.client_profile,2026-10-06
+C0235,Farhan Teo,60,Singapore Citizen,Lawyer,5000,Balanced,RM03,2024-01-20,synthetic_crm.client_profile,2026-10-06
+C0236,Zara Wong,57,Singapore Citizen,Engineer,8400,Conservative,RM04,2018-05-26,synthetic_crm.client_profile,2026-10-06
+C0237,Hui Min Chua,28,Employment Pass,Business owner,11300,Growth,RM01,2022-04-29,synthetic_crm.client_profile,2026-10-06
+C0238,Ethan Teo,53,Singapore Citizen,Engineer,28400,Balanced,RM02,2020-06-06,synthetic_crm.client_profile,2026-10-06
+C0239,Ravi Chen,36,Singapore Citizen,Engineer,4300,Balanced,RM03,2017-07-24,synthetic_crm.client_profile,2026-10-06
+C0240,Jun Jie Ong,42,Employment Pass,Business owner,6400,Conservative,RM04,2021-09-23,synthetic_crm.client_profile,2026-10-06
+C0241,Arjun Ong,70,Singapore Citizen,Retiree,0,Conservative,RM01,2023-09-29,synthetic_crm.client_profile,2026-10-06
+C0242,Benjamin Koh,36,Singapore Citizen,Civil servant,6400,Growth,RM02,2019-02-24,synthetic_crm.client_profile,2026-10-06
+C0243,Hui Min Wong,56,Singapore Citizen,Sales director,8800,Growth,RM03,2010-11-26,synthetic_crm.client_profile,2026-10-06
+C0244,Kumar Lee,57,Employment Pass,Analyst,11000,Conservative,RM04,2012-11-04,synthetic_crm.client_profile,2026-10-06
+C0245,Benjamin Chen,49,S Pass,Business owner,8000,Balanced,RM01,2011-12-11,synthetic_crm.client_profile,2026-10-06
+C0246,Mei Xin Goh,17,Singapore Citizen,Student,0,Balanced,RM02,2023-02-14,synthetic_crm.client_profile,2026-10-06
+C0247,Benjamin Koh,61,Singapore Citizen,Business owner,4200,Growth,RM03,2012-12-15,synthetic_crm.client_profile,2026-10-06
+C0248,Shu Fen Wong,36,S Pass,Nurse,9200,Conservative,RM04,2020-02-16,synthetic_crm.client_profile,2026-10-06
+C0249,Wei Ling Wong,52,Singapore Citizen,Analyst,3600,Conservative,RM01,2011-05-28,synthetic_crm.client_profile,2026-10-06
+C0250,Nurul Ong,35,Singapore Citizen,Engineer,10300,Balanced,RM02,2013-07-27,synthetic_crm.client_profile,2026-10-06
+C0251,Farhan Yusof,38,Employment Pass,Teacher,22300,Conservative,RM03,2024-06-08,synthetic_crm.client_profile,2026-10-06
+C0252,Siti Chua,75,Employment Pass,Retiree,0,Conservative,RM04,2019-04-07,synthetic_crm.client_profile,2026-10-06
+C0253,Joanne Chua,44,Singapore Citizen,Business owner,6600,Balanced,RM01,2023-04-25,synthetic_crm.client_profile,2026-10-06
+C0254,Mei Xin Koh,31,Singapore Citizen,Doctor,11600,Growth,RM02,2014-10-02,synthetic_crm.client_profile,2026-10-06
+C0255,Siti Ismail,30,Singapore Citizen,Civil servant,3200,Balanced,RM03,2017-12-19,synthetic_crm.client_profile,2026-10-06
+C0256,Siti Goh,17,Singapore Citizen,Student,0,Balanced,RM04,2010-10-05,synthetic_crm.client_profile,2026-10-06
+C0257,Hafiz Teo,24,Singapore Citizen,Engineer,15000,Growth,RM01,2025-12-10,synthetic_crm.client_profile,2026-10-06
+C0258,Hafiz Tan,39,Employment Pass,Lawyer,5400,Balanced,RM02,2014-05-06,synthetic_crm.client_profile,2026-10-06
+C0259,Hui Min Yusof,64,Singapore PR,Sales director,6900,Conservative,RM03,2019-04-24,synthetic_crm.client_profile,2026-10-06
+C0260,Grace Pillai,57,Singapore Citizen,Nurse,5100,Growth,RM04,2020-05-08,synthetic_crm.client_profile,2026-10-06
+C0261,Aisha Wong,25,Singapore PR,Analyst,3700,Conservative,RM01,2020-01-28,synthetic_crm.client_profile,2026-10-06
+C0262,Daniel Ong,43,Singapore Citizen,Doctor,2300,Conservative,RM02,2024-08-19,synthetic_crm.client_profile,2026-10-06
+C0263,Kenneth Rahman,38,Singapore Citizen,Consultant,17200,Growth,RM03,2014-08-30,synthetic_crm.client_profile,2026-10-06
+C0264,Joanne Pillai,54,Singapore Citizen,Sales director,4800,Conservative,RM04,2020-01-15,synthetic_crm.client_profile,2026-10-06
+C0265,Grace Ismail,35,Singapore PR,Teacher,7200,Conservative,RM01,2019-07-03,synthetic_crm.client_profile,2026-10-06
+C0266,Siti Yusof,48,Singapore Citizen,Lawyer,4100,Growth,RM02,2021-10-27,synthetic_crm.client_profile,2026-10-06
+C0267,Daniel Goh,62,Singapore Citizen,Teacher,8600,Conservative,RM03,2011-10-08,synthetic_crm.client_profile,2026-10-06
+C0268,Joanne Ng,71,Singapore Citizen,Retiree,0,Conservative,RM04,2021-11-19,synthetic_crm.client_profile,2026-10-06
+C0269,Jun Jie Ong,51,Singapore PR,Sales director,2700,Growth,RM01,2022-06-21,synthetic_crm.client_profile,2026-10-06
+C0270,Farhan Lee,62,Singapore Citizen,Nurse,2700,Growth,RM02,2010-05-10,synthetic_crm.client_profile,2026-10-06
+C0271,Joanne Koh,41,Singapore Citizen,Analyst,12500,Balanced,RM03,2024-12-05,synthetic_crm.client_profile,2026-10-06
+C0272,Kenneth Koh,52,Employment Pass,Lawyer,8500,Conservative,RM04,2017-06-13,synthetic_crm.client_profile,2026-10-06
+C0273,Kumar Koh,30,Employment Pass,Doctor,3100,Growth,RM01,2010-06-03,synthetic_crm.client_profile,2026-10-06
+C0274,Kenneth Yusof,55,Employment Pass,Doctor,6900,Conservative,RM02,2016-08-03,synthetic_crm.client_profile,2026-10-06
+C0275,Jun Jie Wong,32,Singapore Citizen,Nurse,8900,Growth,RM03,2023-02-12,synthetic_crm.client_profile,2026-10-06
+C0276,Shu Fen Teo,38,Singapore Citizen,Engineer,5300,Growth,RM04,2023-03-03,synthetic_crm.client_profile,2026-10-06
+C0277,Ethan Rahman,41,Employment Pass,Consultant,7800,Conservative,RM01,2015-06-16,synthetic_crm.client_profile,2026-10-06
+C0278,Wen Hao Tan,35,Singapore Citizen,Business owner,7900,Conservative,RM02,2019-05-23,synthetic_crm.client_profile,2026-10-06
+C0279,Joanne Nair,40,Singapore Citizen,Nurse,7200,Conservative,RM03,2012-12-15,synthetic_crm.client_profile,2026-10-06
+C0280,Wen Hao Wong,58,Singapore Citizen,Business owner,8700,Growth,RM04,2022-11-30,synthetic_crm.client_profile,2026-10-06
+C0281,Kenneth Ng,34,Singapore Citizen,Doctor,3200,Conservative,RM01,2020-04-26,synthetic_crm.client_profile,2026-10-06
+C0282,Ravi Ismail,37,Singapore PR,Lawyer,3600,Growth,RM02,2016-01-07,synthetic_crm.client_profile,2026-10-06
+C0283,Kenneth Lim,50,Singapore PR,Nurse,8200,Balanced,RM03,2022-04-24,synthetic_crm.client_profile,2026-10-06
+C0284,Ravi Ng,59,Singapore Citizen,Lawyer,3600,Conservative,RM04,2023-04-10,synthetic_crm.client_profile,2026-10-06
+C0285,Ethan Teo,46,Singapore Citizen,Teacher,6000,Conservative,RM01,2021-12-29,synthetic_crm.client_profile,2026-10-06
+C0286,Zara Ong,45,Employment Pass,Engineer,9500,Balanced,RM02,2022-08-25,synthetic_crm.client_profile,2026-10-06
+C0287,Marcus Chua,33,Singapore Citizen,Engineer,7500,Growth,RM03,2013-10-14,synthetic_crm.client_profile,2026-10-06
+C0288,Shu Fen Ismail,59,Employment Pass,Teacher,16200,Conservative,RM04,2025-05-31,synthetic_crm.client_profile,2026-10-06
+C0289,Joanne Lim,32,Employment Pass,Analyst,7200,Balanced,RM01,2013-10-26,synthetic_crm.client_profile,2026-10-06
+C0290,Ethan Chen,57,Employment Pass,Engineer,6600,Balanced,RM02,2014-05-23,synthetic_crm.client_profile,2026-10-06
+C0291,Siti Rahman,37,Singapore Citizen,Lawyer,3400,Balanced,RM03,2018-03-26,synthetic_crm.client_profile,2026-10-06
+C0292,Joanne Koh,41,Singapore PR,Civil servant,5600,Balanced,RM04,2022-04-19,synthetic_crm.client_profile,2026-10-06
+C0293,Hui Min Goh,40,Singapore PR,Sales director,8900,Growth,RM01,2010-12-18,synthetic_crm.client_profile,2026-10-06
+C0294,Kenneth Pillai,77,Singapore PR,Retiree,0,Conservative,RM02,2015-10-01,synthetic_crm.client_profile,2026-10-06
+C0295,Li Ting Chua,60,Employment Pass,Lawyer,5100,Conservative,RM03,2018-01-05,synthetic_crm.client_profile,2026-10-06
+C0296,Ravi Ong,42,Singapore Citizen,Sales director,3200,Balanced,RM04,2022-12-03,synthetic_crm.client_profile,2026-10-06
+C0297,Zara Yusof,57,Singapore Citizen,Business owner,8700,Conservative,RM01,2011-08-23,synthetic_crm.client_profile,2026-10-06
+C0298,Ravi Tan,36,Singapore Citizen,Sales director,13500,Growth,RM02,2014-04-20,synthetic_crm.client_profile,2026-10-06
+C0299,Shu Fen Tan,42,Singapore PR,Engineer,11300,Conservative,RM03,2017-11-19,synthetic_crm.client_profile,2026-10-06
+C0300,Benjamin Ismail,36,Singapore PR,Civil servant,3900,Conservative,RM04,2013-08-01,synthetic_crm.client_profile,2026-10-06
+C0301,Mei Xin Nair,46,Singapore PR,Teacher,4100,Balanced,RM01,2011-06-25,synthetic_crm.client_profile,2026-10-06
+C0302,Aisha Lim,70,Singapore PR,Retiree,0,Conservative,RM02,2019-01-29,synthetic_crm.client_profile,2026-10-06
+C0303,Ethan Tan,58,Singapore Citizen,Engineer,5400,Conservative,RM03,2020-08-31,synthetic_crm.client_profile,2026-10-06
+C0304,Ethan Yusof,29,Singapore Citizen,Doctor,5400,Conservative,RM04,2020-12-10,synthetic_crm.client_profile,2026-10-06
+C0305,Siti Tan,58,Singapore Citizen,Doctor,5200,Conservative,RM01,2010-07-02,synthetic_crm.client_profile,2026-10-06
+C0306,Benjamin Tan,30,Employment Pass,Sales director,7600,Balanced,RM02,2016-03-13,synthetic_crm.client_profile,2026-10-06
+C0307,Hafiz Nair,40,Singapore Citizen,Consultant,5600,Conservative,RM03,2020-09-20,synthetic_crm.client_profile,2026-10-06
+C0308,Priya Koh,32,Employment Pass,Sales director,6000,Conservative,RM04,2022-04-22,synthetic_crm.client_profile,2026-10-06
+C0309,Shu Fen Ong,53,Singapore Citizen,Nurse,5400,Conservative,RM01,2014-01-25,synthetic_crm.client_profile,2026-10-06
+C0310,Ethan Chen,33,Singapore Citizen,Nurse,5200,Balanced,RM02,2017-03-08,synthetic_crm.client_profile,2026-10-06
+C0311,Mei Xin Lee,67,Singapore PR,Retiree,0,Conservative,RM03,2011-07-14,synthetic_crm.client_profile,2026-10-06
+C0312,Benjamin Teo,27,Singapore Citizen,Doctor,4900,Balanced,RM04,2025-05-26,synthetic_crm.client_profile,2026-10-06
+C0313,Jun Jie Goh,26,Singapore PR,Lawyer,11100,Conservative,RM01,2012-10-16,synthetic_crm.client_profile,2026-10-06
+C0314,Wen Hao Goh,37,Singapore Citizen,Civil servant,7600,Balanced,RM02,2014-10-05,synthetic_crm.client_profile,2026-10-06
+C0315,Farhan Lee,25,Singapore PR,Consultant,8100,Conservative,RM03,2019-09-16,synthetic_crm.client_profile,2026-10-06
+C0316,Aisha Ismail,17,Singapore Citizen,Student,0,Balanced,RM04,2011-08-01,synthetic_crm.client_profile,2026-10-06
+C0317,Mei Xin Chua,59,Singapore Citizen,Analyst,8500,Conservative,RM01,2022-10-09,synthetic_crm.client_profile,2026-10-06
+C0318,Joanne Nair,47,Singapore Citizen,Business owner,2900,Conservative,RM02,2025-09-15,synthetic_crm.client_profile,2026-10-06
+C0319,Hui Min Wong,36,Singapore PR,Consultant,7100,Balanced,RM03,2021-01-13,synthetic_crm.client_profile,2026-10-06
+C0320,Daniel Chen,45,Singapore PR,Doctor,9300,Growth,RM04,2018-04-10,synthetic_crm.client_profile,2026-10-06
+C0321,Kumar Wong,17,Singapore Citizen,Student,0,Conservative,RM01,2015-05-21,synthetic_crm.client_profile,2026-10-06
+C0322,Wei Ling Chen,37,Singapore Citizen,Teacher,10200,Balanced,RM02,2014-10-03,synthetic_crm.client_profile,2026-10-06
+C0323,Kenneth Ismail,54,Employment Pass,Civil servant,13500,Conservative,RM03,2011-04-24,synthetic_crm.client_profile,2026-10-06
+C0324,Zara Ong,65,Singapore PR,Lawyer,4700,Conservative,RM04,2025-08-14,synthetic_crm.client_profile,2026-10-06
+C0325,Hui Min Ismail,49,Singapore PR,Business owner,9700,Balanced,RM01,2015-06-11,synthetic_crm.client_profile,2026-10-06
+C0326,Aisha Ng,31,Singapore Citizen,Sales director,5400,Growth,RM02,2010-07-27,synthetic_crm.client_profile,2026-10-06
+C0327,Mei Xin Lim,17,Singapore Citizen,Student,0,Conservative,RM03,2014-02-27,synthetic_crm.client_profile,2026-10-06
+C0328,Hui Min Ong,53,Singapore Citizen,Doctor,8200,Conservative,RM04,2021-11-06,synthetic_crm.client_profile,2026-10-06
+C0329,Wei Ling Lim,34,Singapore Citizen,Civil servant,12300,Balanced,RM01,2023-10-01,synthetic_crm.client_profile,2026-10-06
+C0330,Arjun Teo,28,Singapore Citizen,Business owner,12200,Conservative,RM02,2012-01-14,synthetic_crm.client_profile,2026-10-06
+C0331,Benjamin Ong,53,Singapore PR,Business owner,8200,Balanced,RM03,2022-12-30,synthetic_crm.client_profile,2026-10-06
+C0332,Zara Ismail,27,Singapore Citizen,Consultant,2900,Balanced,RM04,2021-06-13,synthetic_crm.client_profile,2026-10-06
+C0333,Hafiz Tan,21,Singapore Citizen,Student,0,Balanced,RM01,2020-07-07,synthetic_crm.client_profile,2026-10-06
+C0334,Wei Ling Ismail,17,Singapore Citizen,Student,0,Balanced,RM02,2015-12-28,synthetic_crm.client_profile,2026-10-06
+C0335,Hafiz Yusof,22,Singapore Citizen,Teacher,12200,Conservative,RM03,2018-09-03,synthetic_crm.client_profile,2026-10-06
+C0336,Daniel Ng,40,Singapore Citizen,Civil servant,3300,Growth,RM04,2019-08-24,synthetic_crm.client_profile,2026-10-06
+C0337,Hui Min Ismail,36,Employment Pass,Lawyer,9900,Growth,RM01,2025-12-07,synthetic_crm.client_profile,2026-10-06
+C0338,Joanne Wong,44,S Pass,Civil servant,5700,Balanced,RM02,2011-10-31,synthetic_crm.client_profile,2026-10-06
+C0339,Shu Fen Chen,51,Singapore Citizen,Engineer,13200,Balanced,RM03,2016-06-15,synthetic_crm.client_profile,2026-10-06
+C0340,Hafiz Nair,39,Employment Pass,Nurse,4200,Balanced,RM04,2014-08-18,synthetic_crm.client_profile,2026-10-06
+C0341,Jun Jie Ng,43,Singapore Citizen,Analyst,5400,Conservative,RM01,2014-07-29,synthetic_crm.client_profile,2026-10-06
+C0342,Hafiz Goh,19,Employment Pass,Student,0,Balanced,RM02,2024-08-30,synthetic_crm.client_profile,2026-10-06
+C0343,Daniel Teo,66,Employment Pass,Retiree,0,Conservative,RM03,2020-03-18,synthetic_crm.client_profile,2026-10-06
+C0344,Li Ting Lim,34,Singapore PR,Analyst,3800,Growth,RM04,2022-02-14,synthetic_crm.client_profile,2026-10-06
+C0345,Siti Yusof,38,Singapore Citizen,Lawyer,5000,Balanced,RM01,2020-10-27,synthetic_crm.client_profile,2026-10-06
+C0346,Priya Tan,44,Singapore Citizen,Doctor,3000,Growth,RM02,2012-10-14,synthetic_crm.client_profile,2026-10-06
+C0347,Zara Wong,56,Employment Pass,Civil servant,6300,Balanced,RM03,2024-05-17,synthetic_crm.client_profile,2026-10-06
+C0348,Marcus Ng,40,Singapore Citizen,Teacher,5000,Conservative,RM04,2025-06-19,synthetic_crm.client_profile,2026-10-06
+C0349,Kenneth Rahman,37,Singapore Citizen,Nurse,6500,Balanced,RM01,2021-10-11,synthetic_crm.client_profile,2026-10-06
+C0350,Farhan Chua,25,Singapore Citizen,Business owner,2800,Balanced,RM02,2025-12-31,synthetic_crm.client_profile,2026-10-06
+C0351,Kumar Yusof,46,Singapore Citizen,Sales director,7400,Conservative,RM03,2017-10-17,synthetic_crm.client_profile,2026-10-06
+C0352,Nurul Nair,46,Singapore PR,Sales director,4800,Growth,RM04,2024-08-16,synthetic_crm.client_profile,2026-10-06
+C0353,Li Ting Ong,47,Singapore PR,Consultant,7600,Balanced,RM01,2021-09-11,synthetic_crm.client_profile,2026-10-06
+C0354,Wen Hao Pillai,36,Singapore Citizen,Consultant,5800,Conservative,RM02,2019-02-25,synthetic_crm.client_profile,2026-10-06
+C0355,Wen Hao Lim,24,Employment Pass,Engineer,6900,Conservative,RM03,2019-01-12,synthetic_crm.client_profile,2026-10-06
+C0356,Wen Hao Tan,26,Singapore Citizen,Doctor,10100,Growth,RM04,2024-02-20,synthetic_crm.client_profile,2026-10-06
+C0357,Aisha Ismail,46,Employment Pass,Sales director,5200,Balanced,RM01,2019-06-28,synthetic_crm.client_profile,2026-10-06
+C0358,Priya Nair,32,Singapore Citizen,Consultant,7000,Conservative,RM02,2012-07-26,synthetic_crm.client_profile,2026-10-06
+C0359,Shu Fen Chua,17,Singapore Citizen,Student,0,Growth,RM03,2022-08-13,synthetic_crm.client_profile,2026-10-06
+C0360,Kenneth Chua,53,Singapore Citizen,Doctor,6000,Balanced,RM04,2018-11-16,synthetic_crm.client_profile,2026-10-06
+C0361,Aisha Pillai,30,Singapore Citizen,Doctor,8400,Balanced,RM01,2018-11-28,synthetic_crm.client_profile,2026-10-06
+C0362,Arjun Lee,24,Singapore Citizen,Lawyer,4400,Growth,RM02,2019-05-27,synthetic_crm.client_profile,2026-10-06
+C0363,Benjamin Lim,54,Singapore Citizen,Business owner,3900,Balanced,RM03,2020-10-02,synthetic_crm.client_profile,2026-10-06
+C0364,Daniel Lee,52,Singapore PR,Doctor,5700,Balanced,RM04,2015-05-04,synthetic_crm.client_profile,2026-10-06
+C0365,Wen Hao Ismail,68,Singapore Citizen,Retiree,0,Conservative,RM01,2023-08-19,synthetic_crm.client_profile,2026-10-06
+C0366,Hui Min Pillai,39,Employment Pass,Sales director,11800,Conservative,RM02,2025-12-29,synthetic_crm.client_profile,2026-10-06
+C0367,Siti Pillai,39,Singapore Citizen,Consultant,2700,Conservative,RM03,2021-11-13,synthetic_crm.client_profile,2026-10-06
+C0368,Kenneth Chen,25,Singapore Citizen,Consultant,7500,Conservative,RM04,2020-10-31,synthetic_crm.client_profile,2026-10-06
+C0369,Hui Min Lee,49,Employment Pass,Teacher,7900,Balanced,RM01,2010-06-26,synthetic_crm.client_profile,2026-10-06
+C0370,Jun Jie Lim,37,Employment Pass,Consultant,9200,Growth,RM02,2014-01-27,synthetic_crm.client_profile,2026-10-06
+C0371,Joanne Koh,55,Employment Pass,Doctor,10800,Conservative,RM03,2021-04-26,synthetic_crm.client_profile,2026-10-06
+C0372,Joanne Rahman,65,Singapore Citizen,Lawyer,3100,Balanced,RM04,2015-10-18,synthetic_crm.client_profile,2026-10-06
+C0373,Li Ting Pillai,36,Singapore Citizen,Civil servant,4300,Balanced,RM01,2024-08-30,synthetic_crm.client_profile,2026-10-06
+C0374,Mei Xin Chen,50,Singapore Citizen,Nurse,8000,Growth,RM02,2019-12-25,synthetic_crm.client_profile,2026-10-06
+C0375,Ethan Koh,45,Singapore Citizen,Civil servant,10700,Balanced,RM03,2021-01-04,synthetic_crm.client_profile,2026-10-06
+C0376,Aisha Koh,44,Singapore Citizen,Business owner,8000,Balanced,RM04,2020-08-17,synthetic_crm.client_profile,2026-10-06
+C0377,Priya Tan,58,S Pass,Consultant,23500,Growth,RM01,2013-10-03,synthetic_crm.client_profile,2026-10-06
+C0378,Aisha Wong,39,Singapore Citizen,Consultant,11100,Conservative,RM02,2013-03-23,synthetic_crm.client_profile,2026-10-06
+C0379,Siti Chua,39,Singapore Citizen,Consultant,8900,Balanced,RM03,2014-10-07,synthetic_crm.client_profile,2026-10-06
+C0380,Arjun Rahman,57,Singapore PR,Engineer,7800,Conservative,RM04,2022-02-10,synthetic_crm.client_profile,2026-10-06
+C0381,Ethan Rahman,28,Singapore Citizen,Teacher,9900,Balanced,RM01,2021-01-31,synthetic_crm.client_profile,2026-10-06
+C0382,Marcus Nair,33,Singapore Citizen,Lawyer,4500,Growth,RM02,2010-05-05,synthetic_crm.client_profile,2026-10-06
+C0383,Zara Ong,52,Employment Pass,Sales director,13600,Growth,RM03,2024-05-28,synthetic_crm.client_profile,2026-10-06
+C0384,Nurul Nair,35,Singapore Citizen,Business owner,4200,Growth,RM04,2019-08-11,synthetic_crm.client_profile,2026-10-06
+C0385,Grace Lee,44,Singapore PR,Lawyer,9400,Conservative,RM01,2025-08-08,synthetic_crm.client_profile,2026-10-06
+C0386,Siti Ong,47,Employment Pass,Lawyer,4400,Conservative,RM02,2014-05-01,synthetic_crm.client_profile,2026-10-06
+C0387,Nurul Goh,37,Singapore Citizen,Consultant,9600,Balanced,RM03,2021-07-03,synthetic_crm.client_profile,2026-10-06
+C0388,Kenneth Nair,44,Singapore PR,Nurse,2800,Balanced,RM04,2022-01-22,synthetic_crm.client_profile,2026-10-06
+C0389,Aisha Tan,32,Singapore Citizen,Nurse,6700,Growth,RM01,2020-03-14,synthetic_crm.client_profile,2026-10-06
+C0390,Ethan Pillai,39,Singapore Citizen,Doctor,9100,Balanced,RM02,2025-04-14,synthetic_crm.client_profile,2026-10-06
+C0391,Ravi Goh,57,Singapore Citizen,Civil servant,17800,Balanced,RM03,2017-04-17,synthetic_crm.client_profile,2026-10-06
+C0392,Hafiz Lee,42,Singapore Citizen,Engineer,3400,Balanced,RM04,2016-03-25,synthetic_crm.client_profile,2026-10-06
+C0393,Shu Fen Lim,32,Singapore Citizen,Analyst,8200,Growth,RM01,2017-05-21,synthetic_crm.client_profile,2026-10-06
+C0394,Mei Xin Ong,47,Singapore PR,Lawyer,4200,Conservative,RM02,2020-10-31,synthetic_crm.client_profile,2026-10-06
+C0395,Ethan Lim,29,Singapore Citizen,Lawyer,7000,Growth,RM03,2023-01-17,synthetic_crm.client_profile,2026-10-06
+C0396,Li Ting Lee,32,Singapore Citizen,Analyst,11700,Balanced,RM04,2021-06-20,synthetic_crm.client_profile,2026-10-06
+C0397,Wei Ling Chen,33,Singapore PR,Civil servant,13100,Balanced,RM01,2011-02-24,synthetic_crm.client_profile,2026-10-06
+C0398,Shu Fen Chua,17,Singapore Citizen,Student,0,Balanced,RM02,2017-04-27,synthetic_crm.client_profile,2026-10-06
+C0399,Li Ting Chen,59,Singapore Citizen,Lawyer,9600,Balanced,RM03,2026-03-03,synthetic_crm.client_profile,2026-10-06
+C0400,Priya Ng,50,Singapore PR,Doctor,10800,Balanced,RM04,2016-06-11,synthetic_crm.client_profile,2026-10-06

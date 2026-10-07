@@ -1,0 +1,852 @@
+holding_id,client_id,product_name,balance_sgd,opened_on,maturity_date,tenor_months,loan_rate_package,lock_in_end,currency,source,as_of
+H00001,C0001,360 Account,16474.23,2019-03-15,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00002,C0001,Time Deposit (Fixed Deposit),5161.47,2025-12-04,2026-11-29,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00003,C0002,Bonus+ Savings Account,30172.65,2024-02-01,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00004,C0002,Monthly Savings Account,4302.05,2019-12-12,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00005,C0002,Home Loan (New Purchase),-941486.85,2024-04-10,,,Short-term fixed,2027-04-10,SGD,synthetic_core_banking.holdings,2026-10-06
+H00006,C0003,360 Account,157148.18,2025-03-25,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00007,C0003,Monthly Savings Account,23342.1,2020-11-26,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00008,C0003,Time Deposit (Fixed Deposit),40450.01,2024-12-17,2026-12-07,24.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00009,C0004,360 Account,29934.84,2026-05-30,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00010,C0004,Home Loan (New Purchase),-881953.27,2024-03-15,,,Variable (board rate),2027-03-15,SGD,synthetic_core_banking.holdings,2026-10-06
+H00011,C0005,Bonus+ Savings Account,21652.71,2022-10-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00012,C0006,360 Account,4521.56,2026-04-10,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00013,C0007,Bonus+ Savings Account,5389.68,2025-05-24,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00014,C0007,Monthly Savings Account,2901.89,2025-09-08,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00015,C0007,USD Current Account,33853.71,2026-03-22,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00016,C0007,Home Loan (New Purchase),-591244.18,2025-05-14,,,Fixed Deposit-linked,2028-05-13,SGD,synthetic_core_banking.holdings,2026-10-06
+H00017,C0008,360 Account,110385.68,2021-11-01,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00018,C0008,Time Deposit (Fixed Deposit),199112.13,2025-11-20,2026-11-15,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00019,C0009,Bonus+ Savings Account,8073.13,2024-12-17,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00020,C0009,Time Deposit (Fixed Deposit),210463.74,2026-09-30,2027-03-29,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00021,C0010,FRANK Account,21592.45,2023-12-12,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00022,C0010,Monthly Savings Account,2185.87,2025-07-01,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00023,C0011,Bonus+ Savings Account,171476.81,2026-01-21,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00024,C0011,Global Savings Account,15850.95,2019-10-16,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00025,C0012,Bonus+ Savings Account,16836.16,2021-07-08,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00026,C0013,Bonus+ Savings Account,64638.58,2026-07-20,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00027,C0013,USD Current Account,16157.28,2024-12-20,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00028,C0014,Bonus+ Savings Account,56816.02,2023-10-27,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00029,C0015,360 Account,65560.8,2021-04-23,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00030,C0016,360 Account,11598.71,2019-05-12,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00031,C0017,360 Account,230934.77,2019-12-10,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00032,C0017,Monthly Savings Account,3231.65,2023-07-30,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00033,C0017,Unit Trusts,7925.18,2025-01-17,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00034,C0018,360 Account,17706.45,2019-09-19,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00035,C0018,Global Savings Account,6579.56,2023-07-07,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00036,C0018,Home Loan (New Purchase),-746034.37,2025-08-11,,,Variable (board rate),2028-08-10,SGD,synthetic_core_banking.holdings,2026-10-06
+H00037,C0019,Bonus+ Savings Account,67081.38,2019-03-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00038,C0019,Global Savings Account,19689.31,2020-05-19,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00039,C0020,360 Account,84215.21,2018-12-13,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00040,C0020,Home Loan (New Purchase),-1044808.71,2024-02-17,,,Short-term fixed,2027-02-16,SGD,synthetic_core_banking.holdings,2026-10-06
+H00041,C0021,360 Account,14929.88,2025-10-27,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00042,C0021,Time Deposit (Fixed Deposit),172474.29,2025-11-15,2026-11-10,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00043,C0021,Home Loan (New Purchase),-1037633.2,2025-08-08,,,Variable (board rate),2028-08-07,SGD,synthetic_core_banking.holdings,2026-10-06
+H00044,C0022,Bonus+ Savings Account,3181.85,2019-04-01,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00045,C0022,Global Savings Account,152509.0,2019-04-13,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00046,C0022,Home Loan (New Purchase),-731830.61,2024-10-26,,,Fixed Deposit-linked,2027-10-26,SGD,synthetic_core_banking.holdings,2026-10-06
+H00047,C0023,360 Account,194412.26,2019-12-01,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00048,C0024,FRANK Account,14627.52,2024-08-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00049,C0025,360 Account,62875.61,2024-07-18,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00050,C0025,Monthly Savings Account,7896.54,2022-11-13,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00051,C0026,360 Account,270159.46,2022-11-28,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00052,C0026,Time Deposit (Fixed Deposit),60402.53,2025-08-24,2027-02-15,18.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00053,C0027,360 Account,84415.06,2022-02-10,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00054,C0027,Monthly Savings Account,706.0,2023-09-29,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00055,C0027,Time Deposit (Fixed Deposit),44483.15,2026-06-20,2026-12-17,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00056,C0028,360 Account,62610.1,2026-07-27,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00057,C0029,360 Account,90620.9,2019-01-22,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00058,C0030,Bonus+ Savings Account,17399.12,2019-01-06,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00059,C0030,Monthly Savings Account,15010.6,2020-02-17,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00060,C0031,Bonus+ Savings Account,19574.01,2024-09-23,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00061,C0031,Time Deposit (Fixed Deposit),197224.8,2026-04-01,2027-03-27,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00062,C0031,Home Loan (New Purchase),-651370.33,2024-10-25,,,Fixed Deposit-linked,2027-10-25,SGD,synthetic_core_banking.holdings,2026-10-06
+H00063,C0032,Bonus+ Savings Account,4061.96,2019-02-06,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00064,C0032,Time Deposit (Fixed Deposit),194605.65,2024-11-04,2026-10-25,24.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00065,C0033,360 Account,173911.97,2024-08-04,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00066,C0033,Monthly Savings Account,6466.56,2019-12-23,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00067,C0034,Bonus+ Savings Account,140249.49,2019-03-06,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00068,C0035,Bonus+ Savings Account,5069.49,2020-03-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00069,C0035,Unit Trusts,21082.89,2024-01-25,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00070,C0036,360 Account,159365.34,2019-11-01,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00071,C0037,Bonus+ Savings Account,15317.08,2024-04-21,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00072,C0038,FRANK Account,2482.22,2023-05-23,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00073,C0038,Time Deposit (Fixed Deposit),52885.98,2026-08-04,2027-01-31,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00074,C0039,360 Account,53645.71,2025-04-07,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00075,C0039,Unit Trusts,121470.3,2018-12-18,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00076,C0039,Home Loan (New Purchase),-904314.6,2025-07-25,,,Variable (board rate),2028-07-24,SGD,synthetic_core_banking.holdings,2026-10-06
+H00077,C0040,360 Account,44895.53,2023-06-08,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00078,C0040,Unit Trusts,21728.15,2022-02-08,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00079,C0041,360 Account,7348.02,2021-06-05,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00080,C0041,Time Deposit (Fixed Deposit),37468.86,2026-01-21,2027-01-16,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00081,C0041,Global Savings Account,12640.0,2022-06-10,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00082,C0042,FRANK Account,2440.4,2022-06-23,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00083,C0042,Monthly Savings Account,950.46,2019-10-25,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00084,C0042,Time Deposit (Fixed Deposit),48189.61,2024-11-19,2026-11-09,24.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00085,C0042,Global Savings Account,16480.54,2023-06-08,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00086,C0043,FRANK Account,7984.03,2020-03-01,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00087,C0044,Bonus+ Savings Account,4226.98,2025-02-20,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00088,C0044,Time Deposit (Fixed Deposit),132787.83,2026-09-09,2027-03-08,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00089,C0044,Unit Trusts,6269.95,2018-08-19,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00090,C0044,Home Loan (New Purchase),-1045514.3,2023-09-02,,,Fixed Deposit-linked,2026-09-01,SGD,synthetic_core_banking.holdings,2026-10-06
+H00091,C0045,FRANK Account,4613.21,2023-05-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00092,C0046,Bonus+ Savings Account,11519.76,2020-03-07,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00093,C0046,Monthly Savings Account,1224.59,2026-05-21,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00094,C0047,360 Account,43767.46,2026-01-06,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00095,C0047,Time Deposit (Fixed Deposit),24048.66,2026-09-07,2027-03-06,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00096,C0048,360 Account,138603.0,2020-04-06,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00097,C0049,360 Account,19834.79,2025-10-08,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00098,C0049,Global Savings Account,10378.13,2024-10-18,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00099,C0050,Bonus+ Savings Account,19090.36,2018-08-23,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00100,C0051,360 Account,93673.83,2021-09-16,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00101,C0051,Monthly Savings Account,6738.61,2025-08-23,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00102,C0051,Unit Trusts,76861.9,2023-03-26,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00103,C0051,Home Loan (New Purchase),-518407.68,2023-09-07,,,Fixed Deposit-linked,2026-09-06,SGD,synthetic_core_banking.holdings,2026-10-06
+H00104,C0052,Bonus+ Savings Account,7963.73,2025-09-22,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00105,C0052,Global Savings Account,15916.09,2019-03-03,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00106,C0053,360 Account,24488.45,2022-05-26,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00107,C0053,Monthly Savings Account,5770.83,2020-09-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00108,C0054,360 Account,683335.17,2021-09-05,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00109,C0054,Home Loan (New Purchase),-470925.36,2023-09-11,,,Fixed Deposit-linked,2026-09-10,SGD,synthetic_core_banking.holdings,2026-10-06
+H00110,C0055,FRANK Account,5401.71,2020-10-24,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00111,C0056,Bonus+ Savings Account,12526.78,2023-07-28,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00112,C0057,360 Account,25756.41,2023-04-06,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00113,C0057,Monthly Savings Account,5999.44,2023-04-06,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00114,C0057,USD Current Account,50806.73,2019-06-07,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00115,C0057,Unit Trusts,9172.42,2022-12-01,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00116,C0057,Home Loan (New Purchase),-752587.42,2023-11-06,,,Short-term fixed,2026-11-05,SGD,synthetic_core_banking.holdings,2026-10-06
+H00117,C0058,360 Account,28702.64,2024-05-22,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00118,C0058,Monthly Savings Account,5563.02,2024-02-11,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00119,C0058,USD Current Account,27056.75,2023-12-14,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00120,C0058,Unit Trusts,36650.17,2025-01-15,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00121,C0059,Bonus+ Savings Account,246951.11,2025-06-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00122,C0059,Global Savings Account,71876.92,2023-05-09,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00123,C0060,Bonus+ Savings Account,38320.47,2024-12-16,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00124,C0060,Home Loan (New Purchase),-919177.04,2024-06-12,,,Fixed Deposit-linked,2027-06-12,SGD,synthetic_core_banking.holdings,2026-10-06
+H00125,C0061,360 Account,26348.82,2019-03-04,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00126,C0061,Home Loan (New Purchase),-257108.85,2024-03-06,,,Variable (board rate),2027-03-06,SGD,synthetic_core_banking.holdings,2026-10-06
+H00127,C0062,360 Account,34905.34,2020-11-22,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00128,C0062,Monthly Savings Account,920.66,2024-07-18,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00129,C0063,360 Account,226231.36,2021-02-04,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00130,C0063,Home Loan (New Purchase),-1187294.62,2025-07-02,,,Short-term fixed,2028-07-01,SGD,synthetic_core_banking.holdings,2026-10-06
+H00131,C0064,360 Account,28647.06,2024-08-18,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00132,C0064,Monthly Savings Account,4093.38,2020-08-10,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00133,C0065,360 Account,81757.57,2023-03-27,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00134,C0065,Monthly Savings Account,2169.48,2020-03-12,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00135,C0065,USD Current Account,12115.01,2022-06-07,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00136,C0065,Home Loan (New Purchase),-765794.62,2025-02-22,,,Short-term fixed,2028-02-22,SGD,synthetic_core_banking.holdings,2026-10-06
+H00137,C0066,360 Account,27988.56,2021-10-31,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00138,C0066,Time Deposit (Fixed Deposit),43169.12,2026-01-14,2027-01-09,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00139,C0067,Bonus+ Savings Account,17439.82,2024-11-05,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00140,C0067,Home Loan (New Purchase),-307671.83,2025-02-02,,,Short-term fixed,2028-02-02,SGD,synthetic_core_banking.holdings,2026-10-06
+H00141,C0068,360 Account,61346.25,2024-12-10,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00142,C0069,Bonus+ Savings Account,13085.65,2021-09-08,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00143,C0069,Time Deposit (Fixed Deposit),32722.71,2025-09-27,2027-03-21,18.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00144,C0069,Unit Trusts,24312.48,2021-04-24,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00145,C0069,Home Loan (New Purchase),-963294.52,2024-10-29,,,Short-term fixed,2027-10-29,SGD,synthetic_core_banking.holdings,2026-10-06
+H00146,C0070,360 Account,42954.59,2022-09-01,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00147,C0070,Time Deposit (Fixed Deposit),152575.69,2025-04-09,2027-03-30,24.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00148,C0070,Global Savings Account,58658.06,2020-11-22,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00149,C0071,360 Account,17709.96,2025-03-11,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00150,C0071,Monthly Savings Account,3454.71,2024-01-27,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00151,C0072,360 Account,50429.26,2023-07-09,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00152,C0072,USD Current Account,33420.9,2024-09-30,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00153,C0073,360 Account,27336.3,2021-03-08,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00154,C0074,Bonus+ Savings Account,373110.71,2020-06-11,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00155,C0074,Time Deposit (Fixed Deposit),73675.83,2025-02-23,2027-02-13,24.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00156,C0075,360 Account,239427.0,2022-07-17,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00157,C0076,360 Account,14617.1,2024-06-05,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00158,C0076,Global Savings Account,91511.97,2026-01-16,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00159,C0077,FRANK Account,682.88,2020-01-13,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00160,C0077,Time Deposit (Fixed Deposit),395464.99,2026-05-25,2026-11-21,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00161,C0078,360 Account,27813.78,2022-11-11,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00162,C0079,360 Account,73271.59,2022-12-13,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00163,C0079,Monthly Savings Account,2601.05,2021-08-14,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00164,C0079,Time Deposit (Fixed Deposit),20199.02,2026-04-16,2027-04-11,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00165,C0080,360 Account,70061.5,2018-12-05,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00166,C0080,Monthly Savings Account,4400.42,2024-05-02,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00167,C0080,Time Deposit (Fixed Deposit),56522.9,2025-12-27,2026-12-22,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00168,C0080,Unit Trusts,22197.9,2020-11-16,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00169,C0081,360 Account,79642.51,2019-03-17,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00170,C0082,360 Account,45443.66,2023-12-04,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00171,C0082,Unit Trusts,26481.73,2024-05-23,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00172,C0083,360 Account,36678.07,2020-10-17,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00173,C0084,360 Account,115733.57,2023-05-02,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00174,C0084,Unit Trusts,6468.15,2021-06-14,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00175,C0085,360 Account,30748.1,2022-09-18,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00176,C0085,Monthly Savings Account,1962.69,2023-12-06,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00177,C0085,Home Loan (New Purchase),-906114.72,2023-09-18,,,Fixed Deposit-linked,2026-09-17,SGD,synthetic_core_banking.holdings,2026-10-06
+H00178,C0086,360 Account,22378.54,2020-11-05,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00179,C0086,Monthly Savings Account,1203.49,2024-03-16,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00180,C0086,Home Loan (New Purchase),-596444.38,2025-08-26,,,Variable (board rate),2028-08-25,SGD,synthetic_core_banking.holdings,2026-10-06
+H00181,C0087,360 Account,51259.6,2021-07-27,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00182,C0087,USD Current Account,37398.81,2019-01-22,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00183,C0088,360 Account,103654.02,2024-04-04,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00184,C0088,Monthly Savings Account,1541.78,2025-01-11,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00185,C0089,360 Account,62482.65,2022-01-08,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00186,C0090,360 Account,26275.64,2019-02-06,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00187,C0090,Monthly Savings Account,1212.04,2021-07-21,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00188,C0090,Unit Trusts,752956.26,2023-10-08,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00189,C0090,Home Loan (New Purchase),-510533.26,2025-04-20,,,Short-term fixed,2028-04-19,SGD,synthetic_core_banking.holdings,2026-10-06
+H00190,C0091,Bonus+ Savings Account,26230.86,2024-05-05,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00191,C0091,Time Deposit (Fixed Deposit),28934.84,2025-03-27,2027-03-17,24.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00192,C0092,FRANK Account,2260.92,2024-09-07,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00193,C0092,Time Deposit (Fixed Deposit),57454.33,2026-07-22,2027-01-18,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00194,C0093,360 Account,25722.97,2025-04-12,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00195,C0093,Unit Trusts,105262.18,2024-03-19,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00196,C0094,Bonus+ Savings Account,69876.76,2023-10-27,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00197,C0094,Home Loan (New Purchase),-543311.06,2024-03-04,,,Short-term fixed,2027-03-04,SGD,synthetic_core_banking.holdings,2026-10-06
+H00198,C0095,Bonus+ Savings Account,63519.39,2020-02-17,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00199,C0095,Monthly Savings Account,1359.84,2024-03-15,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00200,C0095,Unit Trusts,39586.91,2026-01-08,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00201,C0096,FRANK Account,14165.33,2024-01-31,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00202,C0097,FRANK Account,14831.3,2021-10-24,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00203,C0097,Monthly Savings Account,2265.89,2022-10-12,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00204,C0097,Time Deposit (Fixed Deposit),38612.2,2026-05-02,2026-10-29,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00205,C0098,360 Account,135533.9,2025-11-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00206,C0099,Bonus+ Savings Account,32660.07,2018-11-25,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00207,C0099,Time Deposit (Fixed Deposit),28806.0,2025-11-09,2026-11-04,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00208,C0099,Home Loan (New Purchase),-274226.49,2025-07-24,,,Short-term fixed,2028-07-23,SGD,synthetic_core_banking.holdings,2026-10-06
+H00209,C0100,Bonus+ Savings Account,9110.5,2025-08-31,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00210,C0100,Home Loan (New Purchase),-346696.69,2025-07-17,,,Fixed Deposit-linked,2028-07-16,SGD,synthetic_core_banking.holdings,2026-10-06
+H00211,C0101,360 Account,63547.43,2023-12-21,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00212,C0102,360 Account,154720.7,2026-07-02,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00213,C0102,Time Deposit (Fixed Deposit),44520.43,2026-10-14,2027-04-12,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00214,C0102,Global Savings Account,16603.87,2022-12-22,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00215,C0103,Bonus+ Savings Account,8942.76,2023-08-25,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00216,C0103,Unit Trusts,34928.93,2022-12-20,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00217,C0104,Bonus+ Savings Account,20767.24,2021-03-11,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00218,C0104,Time Deposit (Fixed Deposit),24207.33,2025-05-09,2026-10-31,18.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00219,C0105,360 Account,105725.75,2025-03-13,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00220,C0106,FRANK Account,3955.48,2021-03-26,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00221,C0106,Monthly Savings Account,2006.61,2026-07-31,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00222,C0106,Time Deposit (Fixed Deposit),85287.03,2025-04-07,2027-03-28,24.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00223,C0107,FRANK Account,8520.7,2019-09-19,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00224,C0108,Bonus+ Savings Account,64499.75,2022-01-28,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00225,C0108,Unit Trusts,107737.68,2021-01-31,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00226,C0109,360 Account,25084.49,2019-08-27,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00227,C0109,Monthly Savings Account,824.68,2019-02-20,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00228,C0110,Bonus+ Savings Account,14168.31,2023-04-13,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00229,C0110,Global Savings Account,20792.96,2022-06-13,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00230,C0111,360 Account,38298.89,2022-10-17,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00231,C0111,Monthly Savings Account,810.43,2024-03-10,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00232,C0111,Global Savings Account,135795.09,2024-04-27,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00233,C0112,360 Account,84061.55,2019-09-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00234,C0112,Monthly Savings Account,3139.93,2021-01-11,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00235,C0112,Home Loan (New Purchase),-783843.88,2025-07-10,,,Short-term fixed,2028-07-09,SGD,synthetic_core_banking.holdings,2026-10-06
+H00236,C0113,360 Account,57850.2,2023-01-20,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00237,C0113,Time Deposit (Fixed Deposit),88304.93,2026-09-09,2027-03-08,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00238,C0114,360 Account,66376.73,2025-02-01,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00239,C0115,FRANK Account,2675.13,2025-04-27,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00240,C0115,USD Current Account,21917.38,2018-08-16,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00241,C0116,Bonus+ Savings Account,27423.99,2023-06-28,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00242,C0117,360 Account,17204.19,2024-04-12,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00243,C0118,Bonus+ Savings Account,17261.37,2025-03-17,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00244,C0119,Bonus+ Savings Account,19863.62,2019-02-05,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00245,C0119,Time Deposit (Fixed Deposit),17386.47,2025-07-24,2027-01-15,18.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00246,C0119,Global Savings Account,4123.42,2022-05-04,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00247,C0120,Bonus+ Savings Account,31955.06,2021-09-09,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00248,C0120,Home Loan (New Purchase),-788753.9,2024-11-14,,,Fixed Deposit-linked,2027-11-14,SGD,synthetic_core_banking.holdings,2026-10-06
+H00249,C0121,FRANK Account,7152.79,2021-05-30,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00250,C0121,Time Deposit (Fixed Deposit),112871.57,2025-10-22,2027-04-15,18.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00251,C0122,Bonus+ Savings Account,7279.52,2019-10-08,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00252,C0122,Unit Trusts,38044.55,2025-03-19,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00253,C0123,360 Account,148153.81,2019-02-04,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00254,C0123,Global Savings Account,28742.3,2025-05-13,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00255,C0123,Unit Trusts,252929.72,2024-03-14,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00256,C0123,Home Loan (New Purchase),-396722.41,2025-04-03,,,Fixed Deposit-linked,2028-04-02,SGD,synthetic_core_banking.holdings,2026-10-06
+H00257,C0124,360 Account,39035.8,2020-09-14,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00258,C0124,Time Deposit (Fixed Deposit),19832.33,2025-05-13,2026-11-04,18.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00259,C0124,Home Loan (New Purchase),-1070497.94,2024-04-14,,,Variable (board rate),2027-04-14,SGD,synthetic_core_banking.holdings,2026-10-06
+H00260,C0125,FRANK Account,1048.06,2025-05-30,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00261,C0126,360 Account,90286.4,2022-06-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00262,C0126,Home Loan (New Purchase),-1067696.69,2024-03-17,,,Fixed Deposit-linked,2027-03-17,SGD,synthetic_core_banking.holdings,2026-10-06
+H00263,C0127,360 Account,102018.41,2018-10-07,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00264,C0128,360 Account,62408.21,2025-06-21,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00265,C0128,Global Savings Account,24144.27,2019-12-31,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00266,C0129,Bonus+ Savings Account,8026.21,2018-08-12,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00267,C0130,360 Account,26222.57,2023-06-17,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00268,C0131,360 Account,49641.3,2018-08-28,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00269,C0131,Time Deposit (Fixed Deposit),16840.08,2026-07-19,2027-01-15,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00270,C0132,360 Account,10505.41,2025-06-13,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00271,C0132,Unit Trusts,58177.3,2024-04-23,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00272,C0133,FRANK Account,11650.36,2018-11-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00273,C0134,Bonus+ Savings Account,25098.5,2024-12-06,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00274,C0134,Time Deposit (Fixed Deposit),138574.35,2025-05-26,2026-11-17,18.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00275,C0134,Home Loan (New Purchase),-455813.26,2023-10-27,,,Fixed Deposit-linked,2026-10-26,SGD,synthetic_core_banking.holdings,2026-10-06
+H00276,C0135,Bonus+ Savings Account,22516.54,2021-05-28,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00277,C0135,Monthly Savings Account,4745.53,2024-05-16,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00278,C0135,Time Deposit (Fixed Deposit),65558.39,2025-10-24,2026-10-19,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00279,C0136,360 Account,262129.73,2020-06-17,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00280,C0136,Monthly Savings Account,4413.77,2024-03-16,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00281,C0136,Time Deposit (Fixed Deposit),112191.6,2024-12-20,2026-12-10,24.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00282,C0136,Home Loan (New Purchase),-1095513.94,2024-01-22,,,Variable (board rate),2027-01-21,SGD,synthetic_core_banking.holdings,2026-10-06
+H00283,C0137,Bonus+ Savings Account,6827.42,2024-11-20,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00284,C0137,Time Deposit (Fixed Deposit),56992.09,2025-11-08,2026-11-03,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00285,C0138,360 Account,22034.01,2019-02-28,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00286,C0139,360 Account,592875.0,2020-03-27,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00287,C0139,Monthly Savings Account,1887.66,2020-09-28,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00288,C0139,Time Deposit (Fixed Deposit),414258.08,2026-03-12,2027-03-07,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00289,C0140,360 Account,9435.39,2025-11-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00290,C0140,Monthly Savings Account,5592.68,2024-09-08,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00291,C0140,USD Current Account,13657.41,2020-07-19,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00292,C0141,360 Account,116047.92,2018-08-28,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00293,C0141,Monthly Savings Account,3938.53,2021-02-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00294,C0142,Bonus+ Savings Account,27715.37,2018-11-22,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00295,C0143,Bonus+ Savings Account,14500.29,2018-08-12,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00296,C0144,Bonus+ Savings Account,5369.96,2022-01-24,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00297,C0144,Home Loan (New Purchase),-492266.59,2025-01-28,,,Variable (board rate),2028-01-28,SGD,synthetic_core_banking.holdings,2026-10-06
+H00298,C0145,Bonus+ Savings Account,39433.22,2020-03-17,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00299,C0145,Monthly Savings Account,4908.05,2023-01-18,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00300,C0146,Bonus+ Savings Account,46290.17,2021-12-06,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00301,C0146,Monthly Savings Account,2604.32,2024-12-27,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00302,C0147,360 Account,83008.48,2024-09-11,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00303,C0147,Global Savings Account,11586.74,2025-04-09,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00304,C0147,USD Current Account,11943.49,2019-11-22,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00305,C0148,Bonus+ Savings Account,18158.27,2022-06-23,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00306,C0149,360 Account,44998.87,2025-10-04,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00307,C0149,Monthly Savings Account,8318.48,2018-11-10,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00308,C0150,Bonus+ Savings Account,28126.81,2019-02-22,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00309,C0150,Time Deposit (Fixed Deposit),49726.81,2026-02-26,2027-02-21,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00310,C0151,Bonus+ Savings Account,21892.97,2023-12-27,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00311,C0151,USD Current Account,11282.75,2025-12-25,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00312,C0152,360 Account,76492.05,2024-02-01,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00313,C0152,Monthly Savings Account,3731.94,2020-04-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00314,C0152,Unit Trusts,145363.49,2021-07-14,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00315,C0152,Home Loan (New Purchase),-656423.12,2025-02-05,,,Short-term fixed,2028-02-05,SGD,synthetic_core_banking.holdings,2026-10-06
+H00316,C0153,360 Account,98849.21,2023-02-18,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00317,C0153,Home Loan (New Purchase),-507204.0,2024-09-27,,,Fixed Deposit-linked,2027-09-27,SGD,synthetic_core_banking.holdings,2026-10-06
+H00318,C0154,360 Account,22980.2,2020-10-12,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00319,C0155,360 Account,179754.43,2018-09-01,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00320,C0155,Time Deposit (Fixed Deposit),49914.33,2026-06-21,2026-12-18,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00321,C0156,Bonus+ Savings Account,46015.55,2021-02-08,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00322,C0156,Monthly Savings Account,2089.55,2022-05-05,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00323,C0156,Time Deposit (Fixed Deposit),56838.17,2026-04-16,2027-04-11,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00324,C0157,Bonus+ Savings Account,6779.86,2023-08-25,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00325,C0157,Monthly Savings Account,4614.1,2026-07-15,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00326,C0158,360 Account,77644.83,2023-11-01,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00327,C0158,Home Loan (New Purchase),-1199088.02,2023-12-10,,,Short-term fixed,2026-12-09,SGD,synthetic_core_banking.holdings,2026-10-06
+H00328,C0159,360 Account,51155.36,2025-09-14,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00329,C0159,Time Deposit (Fixed Deposit),206691.05,2025-01-09,2026-12-30,24.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00330,C0160,360 Account,9324.52,2025-11-26,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00331,C0160,Time Deposit (Fixed Deposit),32892.51,2025-01-27,2027-01-17,24.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00332,C0161,360 Account,57474.48,2025-06-15,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00333,C0161,Monthly Savings Account,4116.26,2023-02-22,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00334,C0162,Bonus+ Savings Account,27747.82,2025-06-12,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00335,C0163,360 Account,39706.93,2025-03-02,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00336,C0163,Unit Trusts,13801.19,2024-02-23,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00337,C0164,Bonus+ Savings Account,12679.61,2024-01-25,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00338,C0165,Bonus+ Savings Account,26991.57,2022-02-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00339,C0165,Monthly Savings Account,13100.04,2026-01-15,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00340,C0165,Unit Trusts,16140.89,2024-06-24,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00341,C0165,Home Loan (New Purchase),-418923.74,2025-04-22,,,Fixed Deposit-linked,2028-04-21,SGD,synthetic_core_banking.holdings,2026-10-06
+H00342,C0166,Bonus+ Savings Account,3791.92,2025-01-23,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00343,C0166,Monthly Savings Account,3005.71,2019-09-15,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00344,C0166,Home Loan (New Purchase),-1189624.04,2024-03-19,,,Fixed Deposit-linked,2027-03-19,SGD,synthetic_core_banking.holdings,2026-10-06
+H00345,C0167,Bonus+ Savings Account,185471.51,2026-02-17,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00346,C0167,Time Deposit (Fixed Deposit),40452.73,2025-11-08,2026-11-03,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00347,C0168,360 Account,15943.75,2021-01-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00348,C0168,Monthly Savings Account,1052.1,2021-12-27,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00349,C0168,Unit Trusts,17057.64,2025-06-07,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00350,C0168,Home Loan (New Purchase),-332972.82,2025-01-11,,,Fixed Deposit-linked,2028-01-11,SGD,synthetic_core_banking.holdings,2026-10-06
+H00351,C0169,360 Account,14537.65,2022-08-18,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00352,C0169,Monthly Savings Account,458.61,2024-11-04,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00353,C0169,Time Deposit (Fixed Deposit),20040.32,2026-05-08,2026-11-04,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00354,C0169,Home Loan (New Purchase),-475828.66,2024-07-27,,,Short-term fixed,2027-07-27,SGD,synthetic_core_banking.holdings,2026-10-06
+H00355,C0170,360 Account,9718.37,2019-10-14,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00356,C0170,Time Deposit (Fixed Deposit),18081.99,2026-02-18,2027-02-13,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00357,C0170,Home Loan (New Purchase),-394843.18,2025-02-02,,,Short-term fixed,2028-02-02,SGD,synthetic_core_banking.holdings,2026-10-06
+H00358,C0171,360 Account,25557.95,2024-04-18,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00359,C0171,Monthly Savings Account,3860.17,2024-06-23,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00360,C0171,Time Deposit (Fixed Deposit),101993.72,2026-02-02,2027-01-28,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00361,C0171,Unit Trusts,8762.51,2019-05-25,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00362,C0171,Home Loan (New Purchase),-1107251.42,2024-01-23,,,Short-term fixed,2027-01-22,SGD,synthetic_core_banking.holdings,2026-10-06
+H00363,C0172,Bonus+ Savings Account,99618.42,2023-02-04,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00364,C0173,360 Account,21208.91,2021-05-09,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00365,C0174,Bonus+ Savings Account,28449.78,2021-03-10,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00366,C0174,Time Deposit (Fixed Deposit),61130.71,2025-02-26,2027-02-16,24.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00367,C0175,360 Account,181593.44,2024-08-28,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00368,C0175,Time Deposit (Fixed Deposit),49435.45,2026-04-19,2027-04-14,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00369,C0175,Home Loan (New Purchase),-999684.94,2024-07-14,,,Short-term fixed,2027-07-14,SGD,synthetic_core_banking.holdings,2026-10-06
+H00370,C0176,360 Account,268550.1,2021-11-18,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00371,C0176,Time Deposit (Fixed Deposit),48870.54,2025-01-04,2026-12-25,24.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00372,C0176,Unit Trusts,28123.49,2023-01-30,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00373,C0177,360 Account,26317.58,2021-05-17,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00374,C0177,Time Deposit (Fixed Deposit),28956.5,2026-03-06,2027-03-01,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00375,C0178,360 Account,24864.88,2022-10-04,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00376,C0179,Bonus+ Savings Account,348960.79,2025-10-15,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00377,C0180,360 Account,70375.5,2021-03-01,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00378,C0181,Bonus+ Savings Account,20887.83,2025-10-31,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00379,C0182,FRANK Account,1872.93,2020-12-14,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00380,C0183,Bonus+ Savings Account,36902.48,2018-12-11,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00381,C0183,Time Deposit (Fixed Deposit),96371.13,2026-07-23,2027-01-19,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00382,C0184,Bonus+ Savings Account,13870.15,2025-06-18,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00383,C0184,Time Deposit (Fixed Deposit),18868.38,2025-05-11,2026-11-02,18.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00384,C0185,360 Account,52104.93,2022-07-21,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00385,C0185,Time Deposit (Fixed Deposit),38821.12,2026-04-18,2026-10-15,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00386,C0185,Home Loan (New Purchase),-700285.25,2024-08-15,,,Short-term fixed,2027-08-15,SGD,synthetic_core_banking.holdings,2026-10-06
+H00387,C0186,Bonus+ Savings Account,26681.9,2022-04-09,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00388,C0186,Time Deposit (Fixed Deposit),36216.63,2025-07-14,2027-01-05,18.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00389,C0187,Bonus+ Savings Account,2599.81,2020-11-10,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00390,C0188,Bonus+ Savings Account,17518.13,2026-06-11,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00391,C0189,Bonus+ Savings Account,29093.39,2019-07-04,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00392,C0189,Home Loan (New Purchase),-718582.63,2025-01-20,,,Short-term fixed,2028-01-20,SGD,synthetic_core_banking.holdings,2026-10-06
+H00393,C0190,360 Account,8394.94,2018-08-05,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00394,C0190,Time Deposit (Fixed Deposit),94084.87,2025-10-29,2027-04-22,18.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00395,C0190,Home Loan (New Purchase),-1015919.91,2024-09-05,,,Short-term fixed,2027-09-05,SGD,synthetic_core_banking.holdings,2026-10-06
+H00396,C0191,360 Account,175689.04,2026-05-15,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00397,C0191,Time Deposit (Fixed Deposit),35802.51,2025-08-29,2027-02-20,18.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00398,C0192,360 Account,129917.86,2026-02-07,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00399,C0192,Time Deposit (Fixed Deposit),107593.08,2026-08-23,2027-02-19,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00400,C0192,Unit Trusts,33248.15,2020-08-02,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00401,C0192,Home Loan (New Purchase),-1079112.75,2024-04-18,,,Short-term fixed,2027-04-18,SGD,synthetic_core_banking.holdings,2026-10-06
+H00402,C0193,Bonus+ Savings Account,12795.23,2018-11-05,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00403,C0193,Global Savings Account,103227.4,2022-02-13,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00404,C0193,Unit Trusts,49282.7,2022-09-07,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00405,C0194,360 Account,65194.07,2023-07-05,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00406,C0195,Bonus+ Savings Account,19235.07,2018-09-28,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00407,C0196,360 Account,77343.53,2025-01-09,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00408,C0197,Bonus+ Savings Account,9636.48,2020-11-29,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00409,C0198,360 Account,23244.07,2022-06-25,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00410,C0198,Time Deposit (Fixed Deposit),78378.03,2024-10-27,2026-10-17,24.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00411,C0198,Home Loan (New Purchase),-373269.33,2025-08-19,,,Fixed Deposit-linked,2028-08-18,SGD,synthetic_core_banking.holdings,2026-10-06
+H00412,C0199,Bonus+ Savings Account,46141.92,2023-09-28,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00413,C0199,Time Deposit (Fixed Deposit),133594.54,2025-10-29,2027-04-22,18.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00414,C0199,Global Savings Account,49949.35,2025-01-10,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00415,C0200,FRANK Account,953.95,2025-12-30,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00416,C0201,Bonus+ Savings Account,3333.96,2024-08-02,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00417,C0201,Global Savings Account,29973.39,2020-11-08,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00418,C0202,Bonus+ Savings Account,41385.1,2019-07-10,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00419,C0202,Global Savings Account,102945.36,2020-03-05,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00420,C0203,Bonus+ Savings Account,197012.01,2020-07-09,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00421,C0203,USD Current Account,11926.25,2023-05-28,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00422,C0204,360 Account,344599.79,2023-07-26,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00423,C0204,Time Deposit (Fixed Deposit),27755.88,2025-02-23,2027-02-13,24.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00424,C0204,Unit Trusts,44549.12,2019-01-14,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00425,C0204,Home Loan (New Purchase),-371055.34,2025-04-03,,,Fixed Deposit-linked,2028-04-02,SGD,synthetic_core_banking.holdings,2026-10-06
+H00426,C0205,360 Account,15975.66,2022-06-26,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00427,C0205,Monthly Savings Account,1288.36,2023-11-02,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00428,C0206,360 Account,212279.73,2018-12-16,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00429,C0206,Time Deposit (Fixed Deposit),13777.5,2026-04-07,2027-04-02,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00430,C0207,360 Account,33878.8,2019-02-09,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00431,C0207,Global Savings Account,64932.44,2021-04-17,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00432,C0208,FRANK Account,2209.81,2026-04-23,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00433,C0208,Monthly Savings Account,2572.7,2024-04-25,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00434,C0208,Unit Trusts,12299.25,2024-11-27,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00435,C0209,360 Account,33293.03,2025-03-27,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00436,C0209,Monthly Savings Account,2461.19,2020-05-08,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00437,C0209,Time Deposit (Fixed Deposit),7852.86,2025-11-25,2026-11-20,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00438,C0210,FRANK Account,26697.23,2022-10-21,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00439,C0210,Time Deposit (Fixed Deposit),83372.84,2026-09-08,2027-03-07,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00440,C0211,360 Account,176545.49,2023-01-17,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00441,C0211,Monthly Savings Account,2418.4,2020-07-05,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00442,C0211,USD Current Account,13822.91,2020-05-17,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00443,C0212,360 Account,49034.04,2022-10-31,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00444,C0212,Monthly Savings Account,15888.25,2021-05-24,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00445,C0213,360 Account,62689.38,2026-03-07,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00446,C0213,Monthly Savings Account,2858.09,2024-04-14,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00447,C0213,Time Deposit (Fixed Deposit),672680.1,2026-01-23,2027-01-18,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00448,C0213,Home Loan (New Purchase),-475017.57,2024-11-16,,,Short-term fixed,2027-11-16,SGD,synthetic_core_banking.holdings,2026-10-06
+H00449,C0214,360 Account,139394.69,2020-02-15,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00450,C0214,Home Loan (New Purchase),-536696.16,2025-06-23,,,Short-term fixed,2028-06-22,SGD,synthetic_core_banking.holdings,2026-10-06
+H00451,C0215,360 Account,30609.89,2025-05-14,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00452,C0215,Time Deposit (Fixed Deposit),56112.52,2025-04-15,2027-04-05,24.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00453,C0215,Home Loan (New Purchase),-1174980.87,2024-07-21,,,Fixed Deposit-linked,2027-07-21,SGD,synthetic_core_banking.holdings,2026-10-06
+H00454,C0216,FRANK Account,8259.37,2023-12-12,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00455,C0216,Time Deposit (Fixed Deposit),26323.45,2025-08-27,2027-02-18,18.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00456,C0217,360 Account,346172.51,2021-11-24,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00457,C0217,Monthly Savings Account,3909.62,2021-10-27,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00458,C0218,Bonus+ Savings Account,66820.06,2025-04-08,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00459,C0219,360 Account,42944.09,2019-08-11,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00460,C0219,Monthly Savings Account,14126.53,2020-03-28,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00461,C0219,Time Deposit (Fixed Deposit),34419.83,2026-03-15,2027-03-10,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00462,C0220,Bonus+ Savings Account,4954.75,2020-08-06,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00463,C0221,360 Account,30809.8,2025-09-26,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00464,C0222,360 Account,230288.81,2023-07-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00465,C0222,Unit Trusts,151499.61,2020-07-06,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00466,C0223,360 Account,23108.86,2021-08-19,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00467,C0223,Monthly Savings Account,8012.83,2020-06-16,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00468,C0224,Bonus+ Savings Account,6223.58,2018-10-26,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00469,C0224,Monthly Savings Account,5334.91,2021-02-11,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00470,C0225,360 Account,46483.07,2025-09-05,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00471,C0225,Unit Trusts,23791.55,2025-11-16,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00472,C0226,360 Account,18723.36,2022-05-18,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00473,C0226,Time Deposit (Fixed Deposit),64928.74,2025-11-07,2026-11-02,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00474,C0226,Global Savings Account,43561.45,2020-10-04,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00475,C0226,USD Current Account,41786.31,2023-10-28,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00476,C0227,Bonus+ Savings Account,46478.77,2024-08-01,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00477,C0227,Home Loan (New Purchase),-285302.63,2024-10-09,,,Fixed Deposit-linked,2027-10-09,SGD,synthetic_core_banking.holdings,2026-10-06
+H00478,C0228,Bonus+ Savings Account,87973.55,2021-04-13,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00479,C0229,360 Account,23150.71,2019-03-22,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00480,C0229,Time Deposit (Fixed Deposit),73582.06,2026-08-24,2027-02-20,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00481,C0230,Bonus+ Savings Account,28392.73,2021-02-21,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00482,C0231,360 Account,35587.84,2025-07-14,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00483,C0231,Time Deposit (Fixed Deposit),77557.28,2025-04-17,2027-04-07,24.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00484,C0232,Bonus+ Savings Account,17150.17,2023-12-07,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00485,C0233,FRANK Account,1793.55,2020-10-17,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00486,C0233,Unit Trusts,30658.26,2022-11-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00487,C0234,360 Account,23186.17,2021-06-02,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00488,C0234,Monthly Savings Account,5694.72,2022-06-24,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00489,C0235,360 Account,67397.23,2025-03-01,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00490,C0235,Home Loan (New Purchase),-905264.37,2024-02-25,,,Short-term fixed,2027-02-24,SGD,synthetic_core_banking.holdings,2026-10-06
+H00491,C0236,360 Account,294852.87,2022-03-13,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00492,C0236,Monthly Savings Account,3996.08,2024-12-26,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00493,C0236,Time Deposit (Fixed Deposit),24704.33,2025-12-06,2026-12-01,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00494,C0237,360 Account,18642.64,2022-03-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00495,C0237,Monthly Savings Account,345.43,2020-02-21,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00496,C0237,Home Loan (New Purchase),-682030.83,2024-03-14,,,Variable (board rate),2027-03-14,SGD,synthetic_core_banking.holdings,2026-10-06
+H00497,C0238,360 Account,70242.69,2021-01-28,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00498,C0238,Unit Trusts,69157.95,2022-12-26,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00499,C0238,Home Loan (New Purchase),-877111.75,2024-03-27,,,Short-term fixed,2027-03-27,SGD,synthetic_core_banking.holdings,2026-10-06
+H00500,C0239,360 Account,2268.72,2023-04-23,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00501,C0239,Monthly Savings Account,4258.8,2025-07-14,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00502,C0240,360 Account,139314.87,2020-05-16,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00503,C0240,Time Deposit (Fixed Deposit),110057.3,2025-07-09,2026-12-31,18.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00504,C0241,360 Account,36489.63,2020-09-30,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00505,C0242,360 Account,40948.89,2019-10-26,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00506,C0242,Monthly Savings Account,3612.15,2024-03-18,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00507,C0242,Time Deposit (Fixed Deposit),80085.23,2026-06-19,2026-12-16,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00508,C0243,360 Account,324635.73,2023-03-19,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00509,C0243,Time Deposit (Fixed Deposit),54582.12,2025-07-08,2026-12-30,18.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00510,C0243,Unit Trusts,11612.24,2023-01-02,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00511,C0244,360 Account,358967.41,2020-05-15,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00512,C0245,Bonus+ Savings Account,56952.35,2023-04-20,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00513,C0245,Monthly Savings Account,2882.65,2024-03-31,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00514,C0245,Time Deposit (Fixed Deposit),81702.62,2025-04-20,2026-10-12,18.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00515,C0245,Unit Trusts,12921.69,2024-10-13,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00516,C0246,Bonus+ Savings Account,8139.07,2024-08-07,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00517,C0247,Bonus+ Savings Account,17693.53,2022-05-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00518,C0247,Global Savings Account,65705.36,2024-01-03,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00519,C0248,360 Account,58106.01,2022-07-25,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00520,C0249,360 Account,45079.26,2026-06-19,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00521,C0249,Monthly Savings Account,1813.82,2023-01-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00522,C0249,Global Savings Account,21533.35,2020-05-24,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00523,C0250,Bonus+ Savings Account,124836.87,2021-04-28,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00524,C0250,Unit Trusts,23245.68,2022-12-11,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00525,C0250,Home Loan (New Purchase),-1157613.11,2024-08-15,,,Short-term fixed,2027-08-15,SGD,synthetic_core_banking.holdings,2026-10-06
+H00526,C0251,360 Account,108979.27,2018-07-23,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00527,C0251,Home Loan (New Purchase),-689498.8,2023-12-28,,,Short-term fixed,2026-12-27,SGD,synthetic_core_banking.holdings,2026-10-06
+H00528,C0252,Bonus+ Savings Account,5707.51,2025-12-17,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00529,C0253,Bonus+ Savings Account,26026.45,2023-04-24,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00530,C0253,Global Savings Account,78536.28,2020-10-17,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00531,C0254,360 Account,101247.58,2022-07-28,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00532,C0255,Bonus+ Savings Account,100746.89,2025-10-20,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00533,C0255,Unit Trusts,42395.28,2024-03-10,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00534,C0255,Home Loan (New Purchase),-653732.62,2025-04-23,,,Variable (board rate),2028-04-22,SGD,synthetic_core_banking.holdings,2026-10-06
+H00535,C0256,FRANK Account,15206.56,2025-05-06,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00536,C0257,FRANK Account,3545.3,2023-02-25,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00537,C0257,Time Deposit (Fixed Deposit),43885.22,2026-06-23,2026-12-20,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00538,C0258,360 Account,46734.85,2020-09-17,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00539,C0258,Monthly Savings Account,2725.57,2020-02-06,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00540,C0258,Home Loan (New Purchase),-475970.83,2024-08-26,,,Short-term fixed,2027-08-26,SGD,synthetic_core_banking.holdings,2026-10-06
+H00541,C0259,360 Account,62964.31,2023-10-15,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00542,C0259,Monthly Savings Account,12431.12,2023-02-10,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00543,C0259,Home Loan (New Purchase),-595294.43,2024-10-17,,,Short-term fixed,2027-10-17,SGD,synthetic_core_banking.holdings,2026-10-06
+H00544,C0260,360 Account,244351.04,2021-02-14,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00545,C0260,Unit Trusts,180029.34,2019-10-26,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00546,C0261,FRANK Account,3496.42,2023-06-07,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00547,C0261,Time Deposit (Fixed Deposit),30332.67,2025-08-31,2027-02-22,18.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00548,C0262,Bonus+ Savings Account,20267.57,2020-11-13,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00549,C0262,Time Deposit (Fixed Deposit),17233.79,2026-04-06,2027-04-01,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00550,C0262,Home Loan (New Purchase),-455876.7,2025-06-05,,,Fixed Deposit-linked,2028-06-04,SGD,synthetic_core_banking.holdings,2026-10-06
+H00551,C0263,360 Account,102033.21,2026-04-13,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00552,C0264,360 Account,50274.98,2023-06-26,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00553,C0264,Home Loan (New Purchase),-522357.42,2024-12-18,,,Fixed Deposit-linked,2027-12-18,SGD,synthetic_core_banking.holdings,2026-10-06
+H00554,C0265,Bonus+ Savings Account,32013.06,2022-09-12,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00555,C0265,Time Deposit (Fixed Deposit),68861.7,2026-02-15,2027-02-10,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00556,C0266,360 Account,12356.02,2023-07-11,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00557,C0267,Bonus+ Savings Account,122055.32,2026-03-04,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00558,C0267,Monthly Savings Account,1040.51,2021-08-15,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00559,C0268,360 Account,17712.24,2024-09-07,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00560,C0268,Time Deposit (Fixed Deposit),26843.45,2025-05-18,2026-11-09,18.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00561,C0269,360 Account,116795.14,2026-06-10,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00562,C0269,Monthly Savings Account,1652.35,2024-01-15,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00563,C0269,Global Savings Account,24810.79,2021-01-22,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00564,C0270,360 Account,25751.61,2019-07-29,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00565,C0270,Unit Trusts,60377.71,2024-12-28,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00566,C0271,360 Account,35150.82,2023-12-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00567,C0271,Monthly Savings Account,3218.13,2023-11-04,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00568,C0271,Unit Trusts,23287.93,2019-09-20,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00569,C0272,360 Account,82701.69,2023-11-16,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00570,C0272,USD Current Account,23503.86,2024-11-04,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00571,C0273,Bonus+ Savings Account,171442.17,2020-01-19,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00572,C0273,Monthly Savings Account,4663.38,2023-05-11,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00573,C0273,Time Deposit (Fixed Deposit),30733.95,2025-03-11,2027-03-01,24.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00574,C0274,360 Account,31392.38,2023-08-09,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00575,C0275,360 Account,18730.77,2019-11-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00576,C0275,Monthly Savings Account,2763.14,2019-10-04,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00577,C0275,Time Deposit (Fixed Deposit),25068.16,2025-03-21,2027-03-11,24.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00578,C0275,Unit Trusts,34498.02,2022-05-18,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00579,C0276,360 Account,34979.71,2025-03-10,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00580,C0276,Time Deposit (Fixed Deposit),146979.43,2025-11-12,2026-11-07,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00581,C0276,Home Loan (New Purchase),-780635.86,2025-09-05,,,Short-term fixed,2028-09-04,SGD,synthetic_core_banking.holdings,2026-10-06
+H00582,C0277,360 Account,83809.48,2022-03-09,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00583,C0277,USD Current Account,10177.78,2024-05-22,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00584,C0277,Home Loan (New Purchase),-1125825.25,2025-06-27,,,Short-term fixed,2028-06-26,SGD,synthetic_core_banking.holdings,2026-10-06
+H00585,C0278,360 Account,324285.49,2024-03-02,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00586,C0278,Time Deposit (Fixed Deposit),117637.24,2026-07-20,2027-01-16,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00587,C0279,Bonus+ Savings Account,102274.16,2023-05-24,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00588,C0279,Monthly Savings Account,544.57,2022-09-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00589,C0280,360 Account,30088.29,2025-12-13,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00590,C0281,360 Account,131803.13,2023-04-10,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00591,C0282,Bonus+ Savings Account,13580.02,2020-01-04,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00592,C0282,Monthly Savings Account,758.06,2024-03-25,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00593,C0282,Unit Trusts,47840.93,2021-01-27,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00594,C0282,Home Loan (New Purchase),-965700.18,2025-05-04,,,Fixed Deposit-linked,2028-05-03,SGD,synthetic_core_banking.holdings,2026-10-06
+H00595,C0283,Bonus+ Savings Account,14114.7,2026-05-27,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00596,C0283,Global Savings Account,31097.14,2019-02-22,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00597,C0284,Bonus+ Savings Account,47635.39,2021-11-27,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00598,C0284,Time Deposit (Fixed Deposit),31187.44,2026-09-12,2027-03-11,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00599,C0284,Home Loan (New Purchase),-1080780.32,2025-07-04,,,Short-term fixed,2028-07-03,SGD,synthetic_core_banking.holdings,2026-10-06
+H00600,C0285,360 Account,69673.18,2024-09-18,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00601,C0285,Monthly Savings Account,1981.58,2026-04-12,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00602,C0286,360 Account,17268.68,2025-12-22,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00603,C0286,Unit Trusts,116060.44,2019-05-23,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00604,C0286,Home Loan (New Purchase),-558514.51,2023-10-24,,,Short-term fixed,2026-10-23,SGD,synthetic_core_banking.holdings,2026-10-06
+H00605,C0287,Bonus+ Savings Account,65143.79,2026-02-04,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00606,C0288,Bonus+ Savings Account,2864.62,2024-03-15,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00607,C0288,Monthly Savings Account,1329.48,2020-08-04,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00608,C0288,Home Loan (New Purchase),-432508.51,2025-02-22,,,Short-term fixed,2028-02-22,SGD,synthetic_core_banking.holdings,2026-10-06
+H00609,C0289,360 Account,48153.61,2025-03-13,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00610,C0289,USD Current Account,9614.7,2023-11-07,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00611,C0289,Home Loan (New Purchase),-1100171.99,2023-09-18,,,Fixed Deposit-linked,2026-09-17,SGD,synthetic_core_banking.holdings,2026-10-06
+H00612,C0290,Bonus+ Savings Account,79221.32,2024-12-04,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00613,C0290,Monthly Savings Account,2033.41,2021-02-11,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00614,C0291,360 Account,52573.03,2021-01-07,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00615,C0291,Monthly Savings Account,1356.63,2025-03-19,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00616,C0291,Time Deposit (Fixed Deposit),50178.65,2025-04-20,2026-10-12,18.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00617,C0291,Unit Trusts,17431.8,2019-08-09,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00618,C0292,Bonus+ Savings Account,50401.82,2024-08-17,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00619,C0292,Global Savings Account,23685.6,2026-01-13,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00620,C0292,Home Loan (New Purchase),-706488.03,2023-11-09,,,Short-term fixed,2026-11-08,SGD,synthetic_core_banking.holdings,2026-10-06
+H00621,C0293,360 Account,42807.65,2026-03-04,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00622,C0293,Monthly Savings Account,6075.51,2026-07-25,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00623,C0294,Bonus+ Savings Account,71317.07,2023-06-01,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00624,C0295,360 Account,58176.74,2025-09-25,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00625,C0295,Home Loan (New Purchase),-309032.22,2025-01-19,,,Short-term fixed,2028-01-19,SGD,synthetic_core_banking.holdings,2026-10-06
+H00626,C0296,360 Account,19214.15,2019-12-26,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00627,C0296,Home Loan (New Purchase),-397121.19,2025-08-29,,,Fixed Deposit-linked,2028-08-28,SGD,synthetic_core_banking.holdings,2026-10-06
+H00628,C0297,Bonus+ Savings Account,1265.75,2021-05-12,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00629,C0297,Monthly Savings Account,7067.0,2019-06-02,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00630,C0298,Bonus+ Savings Account,178073.96,2019-08-07,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00631,C0298,Unit Trusts,19010.03,2020-06-22,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00632,C0299,Bonus+ Savings Account,28041.34,2018-11-22,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00633,C0299,Monthly Savings Account,10862.0,2025-03-01,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00634,C0300,360 Account,456701.89,2020-04-13,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00635,C0300,Home Loan (New Purchase),-776318.53,2024-04-05,,,Short-term fixed,2027-04-05,SGD,synthetic_core_banking.holdings,2026-10-06
+H00636,C0301,Bonus+ Savings Account,14291.96,2024-06-27,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00637,C0301,Time Deposit (Fixed Deposit),658020.44,2026-02-15,2027-02-10,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00638,C0302,360 Account,54730.73,2021-01-06,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00639,C0302,Time Deposit (Fixed Deposit),94481.63,2025-10-29,2026-10-24,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00640,C0303,Bonus+ Savings Account,8193.25,2019-03-19,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00641,C0303,Monthly Savings Account,2500.62,2022-04-23,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00642,C0304,Bonus+ Savings Account,5903.9,2025-06-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00643,C0304,Monthly Savings Account,2175.21,2023-05-06,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00644,C0305,360 Account,24004.7,2023-09-21,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00645,C0305,Monthly Savings Account,7763.58,2020-11-23,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00646,C0305,Time Deposit (Fixed Deposit),12310.12,2025-06-30,2026-12-22,18.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00647,C0305,Home Loan (New Purchase),-965500.12,2023-09-29,,,Variable (board rate),2026-09-28,SGD,synthetic_core_banking.holdings,2026-10-06
+H00648,C0306,Bonus+ Savings Account,44527.35,2020-04-29,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00649,C0307,360 Account,68586.13,2019-04-28,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00650,C0308,Bonus+ Savings Account,94887.92,2021-10-20,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00651,C0308,Time Deposit (Fixed Deposit),77644.97,2026-08-06,2027-02-02,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00652,C0309,360 Account,214986.2,2021-10-16,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00653,C0309,Monthly Savings Account,1091.68,2019-05-04,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00654,C0309,Time Deposit (Fixed Deposit),72498.92,2024-12-11,2026-12-01,24.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00655,C0309,Global Savings Account,67046.65,2024-09-07,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00656,C0310,Bonus+ Savings Account,26490.08,2019-12-15,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00657,C0311,360 Account,25307.18,2018-09-22,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00658,C0311,Monthly Savings Account,3290.02,2020-09-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00659,C0312,360 Account,18127.63,2025-06-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00660,C0312,Time Deposit (Fixed Deposit),28115.84,2026-09-11,2027-03-10,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00661,C0313,FRANK Account,2003.36,2022-12-06,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00662,C0314,360 Account,91086.53,2025-05-30,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00663,C0315,FRANK Account,5622.99,2024-01-19,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00664,C0315,Time Deposit (Fixed Deposit),26188.91,2026-01-21,2027-01-16,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00665,C0316,FRANK Account,14364.76,2019-12-02,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00666,C0317,Bonus+ Savings Account,39290.49,2024-08-23,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00667,C0317,USD Current Account,47897.42,2019-12-12,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00668,C0318,360 Account,82996.79,2021-08-23,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00669,C0318,Monthly Savings Account,4101.81,2022-05-01,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00670,C0318,Time Deposit (Fixed Deposit),144635.67,2026-04-24,2026-10-21,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00671,C0318,Global Savings Account,60855.26,2020-07-20,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00672,C0318,USD Current Account,35559.38,2020-08-23,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00673,C0319,360 Account,55339.41,2021-03-12,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00674,C0319,Time Deposit (Fixed Deposit),188568.13,2026-08-09,2027-02-05,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00675,C0319,Unit Trusts,48833.39,2018-12-31,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00676,C0320,Bonus+ Savings Account,23873.02,2025-11-20,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00677,C0320,Home Loan (New Purchase),-958590.9,2023-08-08,,,Short-term fixed,2026-08-07,SGD,synthetic_core_banking.holdings,2026-10-06
+H00678,C0321,FRANK Account,6579.48,2019-06-22,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00679,C0322,Bonus+ Savings Account,29907.22,2024-09-09,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00680,C0322,Global Savings Account,28030.18,2019-10-07,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00681,C0322,Unit Trusts,35842.46,2025-03-22,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00682,C0323,360 Account,35716.83,2022-10-06,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00683,C0323,Global Savings Account,16291.12,2023-05-19,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00684,C0324,360 Account,14018.7,2021-08-08,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00685,C0324,Monthly Savings Account,2406.65,2025-03-08,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00686,C0325,Bonus+ Savings Account,40783.86,2019-09-27,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00687,C0325,Time Deposit (Fixed Deposit),153360.76,2024-11-13,2026-11-03,24.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00688,C0326,Bonus+ Savings Account,29895.17,2018-12-01,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00689,C0326,USD Current Account,9404.69,2021-04-05,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00690,C0327,FRANK Account,12422.03,2022-03-06,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00691,C0328,Bonus+ Savings Account,58312.95,2025-07-08,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00692,C0328,Time Deposit (Fixed Deposit),22934.39,2025-12-18,2026-12-13,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00693,C0329,360 Account,24721.2,2023-10-13,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00694,C0329,Monthly Savings Account,6668.25,2024-07-06,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00695,C0329,Time Deposit (Fixed Deposit),25103.74,2025-12-05,2026-11-30,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00696,C0329,Unit Trusts,20145.36,2025-03-12,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00697,C0330,360 Account,79515.03,2021-01-31,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00698,C0331,Bonus+ Savings Account,28640.34,2022-07-26,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00699,C0332,Bonus+ Savings Account,55661.15,2021-12-22,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00700,C0332,Unit Trusts,12542.16,2022-08-29,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00701,C0333,FRANK Account,1853.38,2026-04-29,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00702,C0334,Bonus+ Savings Account,19435.95,2023-04-09,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00703,C0334,Monthly Savings Account,1275.44,2022-03-02,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00704,C0335,FRANK Account,1834.16,2023-02-23,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00705,C0336,360 Account,108648.37,2018-10-15,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00706,C0336,Monthly Savings Account,1354.65,2021-09-22,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00707,C0336,Unit Trusts,21066.29,2023-11-05,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00708,C0337,360 Account,88429.49,2020-09-07,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00709,C0337,Time Deposit (Fixed Deposit),10094.13,2025-01-09,2026-12-30,24.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00710,C0337,Global Savings Account,15243.1,2022-06-21,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00711,C0337,Unit Trusts,10664.43,2024-06-27,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00712,C0338,Bonus+ Savings Account,46286.33,2026-03-06,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00713,C0338,Time Deposit (Fixed Deposit),36462.41,2026-03-14,2027-03-09,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00714,C0339,Bonus+ Savings Account,10033.96,2021-12-05,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00715,C0339,Time Deposit (Fixed Deposit),118077.06,2025-10-13,2027-04-06,18.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00716,C0339,Home Loan (New Purchase),-449437.6,2024-03-16,,,Short-term fixed,2027-03-16,SGD,synthetic_core_banking.holdings,2026-10-06
+H00717,C0340,Bonus+ Savings Account,28344.95,2022-05-07,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00718,C0341,360 Account,55969.92,2021-07-31,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00719,C0341,Monthly Savings Account,1137.73,2019-04-29,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00720,C0342,FRANK Account,1798.83,2019-09-23,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00721,C0342,Monthly Savings Account,4667.7,2023-03-20,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00722,C0342,Time Deposit (Fixed Deposit),68276.29,2025-03-19,2027-03-09,24.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00723,C0343,Bonus+ Savings Account,177595.46,2025-03-11,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00724,C0343,Global Savings Account,47019.16,2025-08-08,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00725,C0344,360 Account,43289.58,2021-03-31,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00726,C0344,USD Current Account,35418.24,2022-04-14,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00727,C0345,Bonus+ Savings Account,11727.01,2021-06-11,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00728,C0345,Monthly Savings Account,4412.93,2025-10-05,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00729,C0345,Global Savings Account,18093.01,2020-09-06,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00730,C0345,Unit Trusts,30109.64,2020-06-15,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00731,C0346,Bonus+ Savings Account,35859.82,2018-08-01,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00732,C0346,Time Deposit (Fixed Deposit),51504.37,2025-11-12,2026-11-07,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00733,C0346,Unit Trusts,196776.26,2024-05-19,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00734,C0347,Bonus+ Savings Account,45085.39,2025-03-31,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00735,C0347,Home Loan (New Purchase),-1156279.27,2024-05-23,,,Short-term fixed,2027-05-23,SGD,synthetic_core_banking.holdings,2026-10-06
+H00736,C0348,Bonus+ Savings Account,69430.38,2024-09-28,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00737,C0349,360 Account,95091.81,2026-04-21,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00738,C0349,Monthly Savings Account,2022.48,2021-02-11,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00739,C0350,FRANK Account,667.87,2025-12-15,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00740,C0350,Unit Trusts,56734.5,2024-01-04,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00741,C0351,360 Account,87976.73,2024-10-20,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00742,C0351,Global Savings Account,143613.81,2019-08-30,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00743,C0352,360 Account,9966.9,2018-08-06,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00744,C0353,360 Account,6975.78,2019-05-17,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00745,C0354,Bonus+ Savings Account,26767.72,2020-05-21,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00746,C0355,FRANK Account,5055.62,2020-01-13,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00747,C0355,Monthly Savings Account,1985.26,2022-06-19,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00748,C0356,FRANK Account,2888.65,2023-11-29,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00749,C0356,Unit Trusts,143066.87,2023-10-11,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00750,C0357,360 Account,20008.47,2020-09-26,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00751,C0358,360 Account,26587.46,2024-08-08,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00752,C0359,FRANK Account,6166.42,2021-06-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00753,C0360,Bonus+ Savings Account,77180.34,2022-01-12,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00754,C0360,Monthly Savings Account,4049.21,2021-02-14,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00755,C0360,Global Savings Account,29524.77,2018-08-05,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00756,C0360,USD Current Account,33588.17,2019-10-29,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00757,C0361,360 Account,1178631.4,2021-12-02,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00758,C0361,Monthly Savings Account,3485.01,2021-01-05,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00759,C0361,Home Loan (New Purchase),-855252.99,2025-02-16,,,Short-term fixed,2028-02-16,SGD,synthetic_core_banking.holdings,2026-10-06
+H00760,C0362,FRANK Account,766.25,2022-10-17,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00761,C0362,Monthly Savings Account,716.67,2025-05-09,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00762,C0362,Unit Trusts,69820.48,2024-11-15,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00763,C0363,Bonus+ Savings Account,4021.32,2024-10-19,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00764,C0363,Time Deposit (Fixed Deposit),81675.51,2025-12-04,2026-11-29,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00765,C0364,360 Account,20997.71,2022-05-04,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00766,C0364,Time Deposit (Fixed Deposit),94195.43,2026-05-10,2026-11-06,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00767,C0364,Global Savings Account,168507.81,2019-11-01,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00768,C0364,USD Current Account,19528.23,2020-04-21,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00769,C0365,Bonus+ Savings Account,111765.74,2020-03-06,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00770,C0365,Time Deposit (Fixed Deposit),456245.62,2025-10-23,2027-04-16,18.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00771,C0366,360 Account,181757.65,2021-05-27,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00772,C0366,Home Loan (New Purchase),-537225.96,2025-04-05,,,Fixed Deposit-linked,2028-04-04,SGD,synthetic_core_banking.holdings,2026-10-06
+H00773,C0367,Bonus+ Savings Account,13349.33,2022-07-28,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00774,C0367,Global Savings Account,81841.86,2020-01-02,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00775,C0368,FRANK Account,3830.81,2024-10-06,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00776,C0368,Monthly Savings Account,4139.35,2022-02-25,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00777,C0369,Bonus+ Savings Account,21120.57,2023-07-31,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00778,C0369,Monthly Savings Account,2644.01,2020-01-12,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00779,C0369,Time Deposit (Fixed Deposit),272048.34,2025-08-26,2027-02-17,18.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00780,C0370,360 Account,64379.63,2024-11-26,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00781,C0370,Time Deposit (Fixed Deposit),20672.53,2025-07-09,2026-12-31,18.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00782,C0370,Global Savings Account,24742.11,2021-03-22,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00783,C0371,360 Account,33150.15,2025-06-30,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00784,C0371,USD Current Account,16238.6,2024-04-17,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00785,C0372,Bonus+ Savings Account,12736.83,2021-02-20,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00786,C0372,Time Deposit (Fixed Deposit),59335.75,2024-10-21,2026-10-11,24.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00787,C0373,360 Account,86656.55,2021-03-29,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00788,C0374,Bonus+ Savings Account,70093.34,2025-11-12,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00789,C0374,Home Loan (New Purchase),-398607.39,2024-05-19,,,Fixed Deposit-linked,2027-05-19,SGD,synthetic_core_banking.holdings,2026-10-06
+H00790,C0375,360 Account,9423.23,2021-08-20,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00791,C0375,Home Loan (New Purchase),-364457.71,2024-12-18,,,Fixed Deposit-linked,2027-12-18,SGD,synthetic_core_banking.holdings,2026-10-06
+H00792,C0376,360 Account,29669.5,2023-01-06,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00793,C0376,Unit Trusts,34205.63,2019-12-22,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00794,C0377,Bonus+ Savings Account,44576.46,2020-10-02,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00795,C0377,Time Deposit (Fixed Deposit),234392.47,2026-07-04,2026-12-31,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00796,C0377,USD Current Account,36762.71,2023-08-20,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00797,C0378,360 Account,261443.77,2019-12-21,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00798,C0378,Time Deposit (Fixed Deposit),52590.59,2026-03-10,2027-03-05,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00799,C0379,360 Account,20632.49,2020-04-29,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00800,C0379,USD Current Account,25456.27,2019-01-24,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00801,C0380,Bonus+ Savings Account,34597.24,2025-07-09,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00802,C0380,Time Deposit (Fixed Deposit),234659.22,2025-01-06,2026-12-27,24.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00803,C0380,Home Loan (New Purchase),-1122656.18,2023-08-26,,,Short-term fixed,2026-08-25,SGD,synthetic_core_banking.holdings,2026-10-06
+H00804,C0381,360 Account,58222.73,2024-04-10,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00805,C0381,Monthly Savings Account,1713.56,2025-08-12,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00806,C0381,Home Loan (New Purchase),-794068.93,2024-09-08,,,Short-term fixed,2027-09-08,SGD,synthetic_core_banking.holdings,2026-10-06
+H00807,C0382,360 Account,11119.25,2021-01-26,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00808,C0382,Time Deposit (Fixed Deposit),117556.68,2025-04-04,2027-03-25,24.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00809,C0382,Global Savings Account,76429.03,2023-10-18,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00810,C0383,360 Account,26478.0,2026-02-27,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00811,C0383,Time Deposit (Fixed Deposit),111796.2,2025-07-31,2027-01-22,18.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00812,C0384,Bonus+ Savings Account,27609.72,2022-02-24,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00813,C0384,Global Savings Account,27546.03,2022-09-28,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00814,C0385,360 Account,46604.06,2024-07-01,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00815,C0385,Time Deposit (Fixed Deposit),38116.18,2026-04-23,2026-10-20,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00816,C0385,Home Loan (New Purchase),-255148.81,2024-02-12,,,Short-term fixed,2027-02-11,SGD,synthetic_core_banking.holdings,2026-10-06
+H00817,C0386,360 Account,4110.27,2024-01-16,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00818,C0387,360 Account,123284.25,2021-05-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00819,C0387,Monthly Savings Account,1376.16,2025-01-24,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00820,C0387,Time Deposit (Fixed Deposit),217673.77,2024-11-18,2026-11-08,24.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00821,C0388,360 Account,89925.17,2020-01-10,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00822,C0388,Home Loan (New Purchase),-290983.93,2025-02-15,,,Short-term fixed,2028-02-15,SGD,synthetic_core_banking.holdings,2026-10-06
+H00823,C0389,360 Account,20586.2,2025-05-17,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00824,C0390,360 Account,13312.97,2021-01-19,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00825,C0391,Bonus+ Savings Account,43536.23,2021-11-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00826,C0391,Global Savings Account,16778.98,2023-09-16,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00827,C0391,Home Loan (New Purchase),-499412.25,2023-10-14,,,Fixed Deposit-linked,2026-10-13,SGD,synthetic_core_banking.holdings,2026-10-06
+H00828,C0392,Bonus+ Savings Account,6773.55,2020-09-27,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00829,C0392,Time Deposit (Fixed Deposit),39069.31,2024-11-26,2026-11-16,24.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00830,C0392,Global Savings Account,25787.25,2022-10-16,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00831,C0393,360 Account,93387.62,2020-04-03,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00832,C0393,Monthly Savings Account,1284.93,2023-06-25,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00833,C0393,Time Deposit (Fixed Deposit),29839.09,2026-04-14,2027-04-09,12.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00834,C0393,Global Savings Account,46593.9,2026-05-07,,,,,USD,synthetic_core_banking.holdings,2026-10-06
+H00835,C0393,Unit Trusts,69147.19,2023-10-22,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00836,C0393,Home Loan (New Purchase),-672422.22,2025-01-17,,,Short-term fixed,2028-01-17,SGD,synthetic_core_banking.holdings,2026-10-06
+H00837,C0394,360 Account,108603.6,2026-03-23,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00838,C0394,Time Deposit (Fixed Deposit),29277.73,2026-09-27,2027-03-26,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00839,C0395,360 Account,70412.42,2022-09-10,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00840,C0395,Monthly Savings Account,1263.45,2025-10-28,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00841,C0396,360 Account,35065.08,2025-12-30,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00842,C0396,Time Deposit (Fixed Deposit),132303.44,2025-05-04,2026-10-26,18.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00843,C0397,360 Account,28002.92,2024-01-28,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00844,C0397,Home Loan (New Purchase),-381482.66,2024-05-05,,,Variable (board rate),2027-05-05,SGD,synthetic_core_banking.holdings,2026-10-06
+H00845,C0398,FRANK Account,2437.61,2020-10-19,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00846,C0398,Unit Trusts,11752.88,2022-12-14,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00847,C0399,360 Account,31672.51,2020-01-17,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00848,C0399,Monthly Savings Account,6345.23,2022-11-20,,,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00849,C0399,Time Deposit (Fixed Deposit),18744.13,2026-04-18,2026-10-15,6.0,,,SGD,synthetic_core_banking.holdings,2026-10-06
+H00850,C0399,Home Loan (New Purchase),-620068.66,2024-05-30,,,Short-term fixed,2027-05-30,SGD,synthetic_core_banking.holdings,2026-10-06
+H00851,C0400,360 Account,11268.7,2020-05-27,,,,,SGD,synthetic_core_banking.holdings,2026-10-06

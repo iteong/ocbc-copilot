@@ -1,0 +1,790 @@
+interaction_id,client_id,date,channel,note,source,as_of
+I00001,C0001,2026-06-19,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00002,C0002,2026-06-26,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00003,C0003,2025-09-29,Call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00004,C0003,2026-05-18,Video call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00005,C0004,2026-02-13,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00006,C0005,2026-01-25,Call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00007,C0005,2026-01-29,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00008,C0006,2025-11-29,Call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00009,C0006,2026-07-27,Call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00010,C0007,2025-11-11,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00011,C0007,2026-09-22,Call,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00012,C0008,2025-09-12,Video call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00013,C0008,2026-04-25,Branch meeting,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00014,C0008,2026-09-29,Video call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00015,C0009,2025-11-07,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00016,C0009,2026-05-25,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00017,C0010,2025-08-16,Video call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00018,C0010,2025-11-21,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00019,C0010,2026-09-08,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00020,C0011,2025-12-06,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00021,C0012,2025-12-05,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00022,C0013,2026-02-08,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00023,C0013,2026-02-13,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00024,C0014,2026-02-08,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00025,C0015,2026-07-19,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00026,C0015,2026-07-21,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00027,C0015,2026-08-01,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00028,C0016,2026-07-01,Video call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00029,C0016,2026-07-21,Branch meeting,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00030,C0016,2026-09-24,Video call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00031,C0017,2026-07-31,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00032,C0018,2026-04-23,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00033,C0018,2026-05-31,Video call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00034,C0019,2025-10-12,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00035,C0019,2026-06-18,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00036,C0019,2026-07-05,Video call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00037,C0020,2026-03-05,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00038,C0021,2025-10-03,Call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00039,C0021,2026-01-05,Call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00040,C0021,2026-04-16,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00041,C0022,2025-08-22,Video call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00042,C0022,2026-01-24,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00043,C0022,2026-04-24,Call,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00044,C0023,2025-12-06,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00045,C0024,2025-11-11,Call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00046,C0024,2026-08-13,Branch meeting,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00047,C0025,2026-01-26,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00048,C0026,2026-06-02,Video call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00049,C0027,2025-11-23,Call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00050,C0027,2026-04-21,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00051,C0027,2026-06-24,Video call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00052,C0028,2025-10-05,Call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00053,C0029,2025-09-22,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00054,C0029,2026-05-12,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00055,C0030,2025-09-18,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00056,C0031,2026-01-17,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00057,C0031,2026-04-01,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00058,C0031,2026-05-02,Call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00059,C0032,2025-08-25,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00060,C0032,2025-09-05,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00061,C0033,2025-11-25,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00062,C0033,2025-11-25,Call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00063,C0033,2026-05-12,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00064,C0034,2025-10-24,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00065,C0034,2026-06-19,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00066,C0035,2025-10-31,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00067,C0035,2026-01-21,Call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00068,C0035,2026-08-04,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00069,C0036,2025-10-09,Branch meeting,Client mentioned planning to buy a HDB flat within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00070,C0037,2025-09-09,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00071,C0038,2026-05-28,Video call,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00072,C0039,2025-11-09,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00073,C0039,2026-03-29,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00074,C0039,2026-09-09,Branch meeting,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00075,C0040,2026-09-29,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00076,C0041,2025-08-25,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00077,C0042,2026-02-08,Branch meeting,Client mentioned planning to buy a HDB flat within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00078,C0042,2026-07-04,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00079,C0043,2025-12-12,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00080,C0043,2026-06-22,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00081,C0044,2026-04-11,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00082,C0044,2026-07-30,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00083,C0045,2026-02-22,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00084,C0045,2026-04-23,Video call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00085,C0045,2026-09-08,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00086,C0046,2026-08-28,Video call,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00087,C0047,2025-12-08,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00088,C0047,2026-01-09,Branch meeting,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00089,C0047,2026-02-23,Call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00090,C0048,2025-08-22,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00091,C0048,2025-09-21,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00092,C0049,2026-04-24,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00093,C0050,2025-10-22,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00094,C0051,2026-04-07,Call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00095,C0052,2025-11-08,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00096,C0052,2026-06-02,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00097,C0052,2026-08-03,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00098,C0053,2025-12-13,Video call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00099,C0053,2026-09-19,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00100,C0054,2025-10-08,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00101,C0054,2025-12-18,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00102,C0055,2025-09-27,Call,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00103,C0056,2025-10-04,Call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00104,C0056,2026-07-30,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00105,C0056,2026-08-25,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00106,C0057,2025-08-15,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00107,C0058,2025-10-24,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00108,C0058,2026-07-05,Video call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00109,C0059,2026-04-19,Call,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00110,C0059,2026-05-15,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00111,C0059,2026-09-22,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00112,C0060,2026-05-18,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00113,C0060,2026-08-24,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00114,C0061,2026-09-13,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00115,C0062,2025-12-12,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00116,C0063,2026-05-27,Branch meeting,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00117,C0064,2026-08-26,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00118,C0065,2026-02-02,Branch meeting,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00119,C0065,2026-04-21,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00120,C0066,2026-02-27,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00121,C0066,2026-06-09,Video call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00122,C0066,2026-07-14,Video call,Client mentioned planning to buy a HDB flat within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00123,C0067,2025-10-11,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00124,C0067,2026-03-17,Call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00125,C0067,2026-07-13,Call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00126,C0068,2026-05-18,Video call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00127,C0068,2026-08-04,Call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00128,C0069,2026-05-21,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00129,C0070,2025-11-25,Branch meeting,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00130,C0070,2026-05-09,Video call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00131,C0070,2026-07-13,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00132,C0071,2026-03-22,Video call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00133,C0071,2026-08-14,Video call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00134,C0071,2026-09-21,Branch meeting,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00135,C0072,2026-01-26,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00136,C0073,2026-02-19,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00137,C0073,2026-04-08,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00138,C0073,2026-07-01,Video call,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00139,C0074,2025-10-26,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00140,C0074,2026-07-11,Video call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00141,C0075,2026-03-16,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00142,C0075,2026-05-24,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00143,C0076,2025-09-06,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00144,C0076,2025-09-19,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00145,C0076,2026-02-24,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00146,C0077,2026-05-03,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00147,C0078,2026-08-01,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00148,C0078,2026-09-05,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00149,C0079,2025-10-05,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00150,C0079,2026-01-18,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00151,C0079,2026-01-22,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00152,C0080,2026-03-19,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00153,C0080,2026-05-07,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00154,C0080,2026-07-06,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00155,C0081,2025-12-01,Call,Client mentioned planning to buy a HDB flat within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00156,C0082,2026-08-17,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00157,C0082,2026-09-17,Video call,Client mentioned planning to buy a HDB flat within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00158,C0083,2026-04-04,Video call,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00159,C0083,2026-05-23,Branch meeting,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00160,C0083,2026-06-29,Branch meeting,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00161,C0084,2025-08-18,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00162,C0085,2026-03-28,Call,Client mentioned planning to buy a HDB flat within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00163,C0086,2026-08-10,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00164,C0087,2026-02-27,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00165,C0087,2026-03-20,Video call,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00166,C0087,2026-03-24,Call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00167,C0088,2026-07-07,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00168,C0089,2025-10-07,Video call,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00169,C0089,2026-02-04,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00170,C0089,2026-04-20,Branch meeting,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00171,C0090,2025-09-20,Call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00172,C0091,2026-07-22,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00173,C0092,2026-06-14,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00174,C0093,2025-08-14,Call,Client mentioned planning to buy a HDB flat within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00175,C0093,2026-03-10,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00176,C0093,2026-09-16,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00177,C0094,2026-01-20,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00178,C0095,2025-11-23,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00179,C0096,2025-11-13,Video call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00180,C0096,2026-03-18,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00181,C0096,2026-08-14,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00182,C0097,2026-06-16,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00183,C0097,2026-08-02,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00184,C0098,2026-06-12,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00185,C0099,2026-03-30,Call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00186,C0099,2026-07-26,Video call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00187,C0100,2025-11-13,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00188,C0101,2025-11-26,Video call,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00189,C0101,2026-04-12,Call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00190,C0101,2026-04-26,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00191,C0102,2026-08-16,Video call,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00192,C0103,2025-08-20,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00193,C0103,2025-08-22,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00194,C0103,2025-11-10,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00195,C0104,2025-08-21,Video call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00196,C0104,2026-09-29,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00197,C0105,2025-11-14,Call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00198,C0106,2025-09-11,Video call,Client mentioned planning to buy a HDB flat within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00199,C0106,2025-11-04,Video call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00200,C0107,2025-11-09,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00201,C0107,2026-05-05,Call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00202,C0107,2026-08-14,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00203,C0108,2025-09-24,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00204,C0109,2026-01-28,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00205,C0109,2026-05-03,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00206,C0109,2026-06-19,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00207,C0110,2026-02-02,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00208,C0110,2026-05-21,Call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00209,C0110,2026-06-28,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00210,C0111,2026-02-20,Call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00211,C0111,2026-04-22,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00212,C0112,2026-04-04,Video call,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00213,C0112,2026-07-03,Call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00214,C0112,2026-07-22,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00215,C0113,2025-10-04,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00216,C0113,2025-10-13,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00217,C0113,2025-11-21,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00218,C0114,2025-12-13,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00219,C0114,2025-12-27,Call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00220,C0115,2025-09-02,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00221,C0115,2026-05-24,Branch meeting,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00222,C0116,2026-07-15,Video call,Client mentioned planning to buy a HDB flat within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00223,C0116,2026-09-11,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00224,C0117,2026-02-11,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00225,C0118,2025-09-08,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00226,C0119,2025-12-14,Call,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00227,C0119,2026-07-27,Video call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00228,C0119,2026-08-20,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00229,C0120,2025-10-06,Call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00230,C0120,2026-03-04,Video call,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00231,C0121,2025-09-11,Video call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00232,C0121,2026-02-07,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00233,C0121,2026-03-22,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00234,C0122,2025-11-20,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00235,C0122,2026-08-19,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00236,C0123,2025-09-28,Video call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00237,C0123,2025-11-13,Call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00238,C0123,2026-07-22,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00239,C0124,2025-11-26,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00240,C0124,2026-05-17,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00241,C0124,2026-08-03,Call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00242,C0125,2026-01-25,Branch meeting,Client mentioned planning to buy a HDB flat within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00243,C0125,2026-09-07,Video call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00244,C0125,2026-09-12,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00245,C0126,2026-04-10,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00246,C0126,2026-04-29,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00247,C0127,2026-02-03,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00248,C0128,2025-10-15,Video call,Client mentioned planning to buy a HDB flat within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00249,C0129,2026-02-04,Call,Client mentioned planning to buy a HDB flat within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00250,C0129,2026-07-10,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00251,C0130,2025-08-22,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00252,C0130,2025-12-18,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00253,C0130,2026-09-05,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00254,C0131,2025-12-21,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00255,C0132,2025-11-09,Call,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00256,C0132,2026-07-29,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00257,C0132,2026-09-05,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00258,C0133,2026-03-03,Call,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00259,C0133,2026-06-15,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00260,C0134,2025-09-09,Video call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00261,C0134,2026-07-08,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00262,C0134,2026-08-22,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00263,C0135,2025-08-13,Call,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00264,C0135,2026-02-05,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00265,C0136,2026-05-06,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00266,C0136,2026-08-09,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00267,C0137,2025-09-11,Video call,Client mentioned planning to buy a HDB flat within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00268,C0137,2026-03-02,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00269,C0138,2026-05-08,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00270,C0138,2026-06-19,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00271,C0138,2026-06-22,Call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00272,C0139,2025-11-28,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00273,C0140,2025-08-31,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00274,C0140,2025-10-04,Video call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00275,C0141,2025-12-31,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00276,C0141,2026-03-23,Call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00277,C0142,2025-11-22,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00278,C0142,2026-04-24,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00279,C0143,2026-05-12,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00280,C0143,2026-06-21,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00281,C0144,2025-11-13,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00282,C0144,2026-04-01,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00283,C0144,2026-04-05,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00284,C0145,2026-07-09,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00285,C0145,2026-09-17,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00286,C0146,2026-02-16,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00287,C0146,2026-06-12,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00288,C0146,2026-06-21,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00289,C0147,2025-11-15,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00290,C0147,2026-01-31,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00291,C0147,2026-06-08,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00292,C0148,2026-02-14,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00293,C0148,2026-07-19,Video call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00294,C0149,2026-05-30,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00295,C0149,2026-06-06,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00296,C0150,2026-06-18,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00297,C0150,2026-07-09,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00298,C0151,2025-11-03,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00299,C0151,2026-02-22,Branch meeting,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00300,C0152,2026-09-16,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00301,C0153,2025-08-24,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00302,C0153,2026-09-21,Call,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00303,C0154,2026-04-25,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00304,C0155,2025-12-27,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00305,C0155,2026-02-13,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00306,C0155,2026-07-10,Video call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00307,C0156,2025-11-07,Branch meeting,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00308,C0157,2025-08-23,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00309,C0158,2025-09-03,Branch meeting,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00310,C0158,2025-09-04,Branch meeting,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00311,C0158,2026-01-10,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00312,C0159,2025-11-25,Video call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00313,C0159,2026-01-08,Call,Client mentioned planning to buy a HDB flat within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00314,C0160,2025-11-19,Branch meeting,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00315,C0160,2026-04-07,Video call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00316,C0160,2026-04-09,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00317,C0161,2026-07-27,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00318,C0162,2025-11-17,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00319,C0163,2025-12-19,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00320,C0163,2026-01-13,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00321,C0164,2025-10-09,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00322,C0164,2025-12-18,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00323,C0165,2026-09-01,Call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00324,C0166,2026-03-22,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00325,C0166,2026-08-07,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00326,C0167,2025-09-16,Video call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00327,C0167,2025-09-29,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00328,C0167,2026-05-28,Video call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00329,C0168,2025-10-27,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00330,C0169,2026-02-05,Call,Client mentioned planning to buy a HDB flat within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00331,C0169,2026-06-15,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00332,C0169,2026-08-28,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00333,C0170,2026-03-09,Branch meeting,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00334,C0170,2026-08-29,Branch meeting,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00335,C0171,2025-10-11,Call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00336,C0171,2025-12-12,Call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00337,C0172,2025-10-04,Branch meeting,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00338,C0172,2026-03-12,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00339,C0172,2026-09-15,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00340,C0173,2025-12-16,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00341,C0173,2026-08-01,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00342,C0173,2026-08-15,Call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00343,C0174,2026-01-05,Call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00344,C0175,2025-12-25,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00345,C0175,2026-02-27,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00346,C0175,2026-05-04,Call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00347,C0176,2026-03-27,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00348,C0177,2025-10-30,Call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00349,C0177,2026-01-12,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00350,C0177,2026-02-12,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00351,C0178,2025-11-26,Branch meeting,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00352,C0178,2026-04-19,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00353,C0179,2026-08-02,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00354,C0179,2026-08-13,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00355,C0180,2026-03-02,Video call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00356,C0180,2026-05-14,Call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00357,C0180,2026-07-01,Call,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00358,C0181,2026-02-24,Video call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00359,C0182,2025-11-23,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00360,C0183,2025-09-18,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00361,C0184,2025-10-30,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00362,C0184,2026-07-06,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00363,C0185,2026-02-19,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00364,C0185,2026-07-12,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00365,C0186,2025-10-23,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00366,C0186,2026-04-01,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00367,C0187,2025-08-20,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00368,C0187,2025-09-05,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00369,C0188,2026-04-07,Call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00370,C0188,2026-07-30,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00371,C0189,2025-12-02,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00372,C0189,2025-12-05,Video call,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00373,C0189,2026-09-02,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00374,C0190,2025-09-06,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00375,C0190,2025-11-25,Video call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00376,C0190,2026-06-12,Branch meeting,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00377,C0191,2025-11-08,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00378,C0191,2026-01-07,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00379,C0191,2026-06-27,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00380,C0192,2025-11-07,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00381,C0192,2025-12-27,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00382,C0193,2026-08-02,Video call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00383,C0194,2025-09-25,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00384,C0195,2026-04-07,Call,Client mentioned planning to buy a HDB flat within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00385,C0195,2026-07-10,Call,Client mentioned planning to buy a HDB flat within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00386,C0196,2025-09-27,Call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00387,C0196,2026-03-06,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00388,C0196,2026-04-02,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00389,C0197,2026-04-20,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00390,C0197,2026-09-12,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00391,C0198,2026-01-29,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00392,C0198,2026-02-24,Video call,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00393,C0198,2026-06-13,Video call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00394,C0199,2025-09-13,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00395,C0199,2026-06-08,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00396,C0200,2026-02-13,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00397,C0200,2026-02-13,Branch meeting,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00398,C0200,2026-06-21,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00399,C0201,2026-04-16,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00400,C0202,2025-09-09,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00401,C0203,2025-10-11,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00402,C0203,2026-08-04,Branch meeting,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00403,C0204,2026-09-28,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00404,C0205,2026-07-16,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00405,C0206,2025-09-22,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00406,C0207,2026-03-23,Call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00407,C0207,2026-07-30,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00408,C0207,2026-09-05,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00409,C0208,2026-01-31,Video call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00410,C0208,2026-05-21,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00411,C0208,2026-09-29,Call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00412,C0209,2026-01-20,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00413,C0209,2026-04-17,Branch meeting,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00414,C0210,2025-12-24,Branch meeting,Client mentioned planning to buy a HDB flat within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00415,C0210,2026-01-23,Call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00416,C0210,2026-06-24,Call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00417,C0211,2025-12-02,Call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00418,C0212,2025-09-19,Call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00419,C0212,2026-09-12,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00420,C0213,2026-06-19,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00421,C0214,2025-11-04,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00422,C0214,2025-12-14,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00423,C0214,2026-09-29,Branch meeting,Client mentioned planning to buy a HDB flat within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00424,C0215,2026-01-16,Call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00425,C0215,2026-09-21,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00426,C0216,2025-08-17,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00427,C0216,2026-03-25,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00428,C0217,2025-11-07,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00429,C0218,2026-04-13,Call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00430,C0218,2026-04-25,Call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00431,C0218,2026-06-24,Video call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00432,C0219,2025-11-24,Video call,Client mentioned planning to buy a HDB flat within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00433,C0219,2026-01-24,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00434,C0219,2026-08-31,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00435,C0220,2025-09-10,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00436,C0220,2026-03-11,Video call,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00437,C0220,2026-09-07,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00438,C0221,2025-11-27,Branch meeting,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00439,C0221,2026-01-04,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00440,C0221,2026-08-27,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00441,C0222,2026-03-26,Call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00442,C0222,2026-04-14,Branch meeting,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00443,C0223,2025-12-18,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00444,C0223,2025-12-31,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00445,C0223,2026-07-18,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00446,C0224,2026-01-26,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00447,C0224,2026-09-10,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00448,C0225,2025-09-22,Video call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00449,C0225,2026-08-12,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00450,C0225,2026-09-13,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00451,C0226,2025-09-05,Branch meeting,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00452,C0226,2025-11-02,Call,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00453,C0227,2026-09-11,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00454,C0228,2026-07-09,Branch meeting,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00455,C0228,2026-07-12,Video call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00456,C0228,2026-09-08,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00457,C0229,2025-11-17,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00458,C0230,2025-12-25,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00459,C0230,2026-05-14,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00460,C0231,2026-09-20,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00461,C0232,2025-09-08,Branch meeting,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00462,C0232,2026-08-23,Video call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00463,C0233,2026-03-10,Video call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00464,C0233,2026-03-29,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00465,C0233,2026-09-12,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00466,C0234,2025-12-19,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00467,C0234,2026-06-11,Call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00468,C0235,2025-10-14,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00469,C0236,2026-04-12,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00470,C0237,2025-08-27,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00471,C0237,2026-07-05,Video call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00472,C0238,2025-08-19,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00473,C0238,2026-02-28,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00474,C0239,2026-04-27,Video call,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00475,C0239,2026-06-18,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00476,C0240,2025-11-23,Call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00477,C0240,2026-02-23,Branch meeting,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00478,C0241,2026-01-20,Call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00479,C0242,2026-06-02,Video call,Client mentioned planning to buy a HDB flat within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00480,C0242,2026-08-18,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00481,C0243,2026-07-25,Video call,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00482,C0243,2026-09-07,Branch meeting,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00483,C0243,2026-10-01,Call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00484,C0244,2025-09-13,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00485,C0245,2026-06-20,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00486,C0246,2026-02-26,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00487,C0246,2026-07-31,Video call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00488,C0247,2026-01-06,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00489,C0247,2026-06-25,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00490,C0247,2026-06-30,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00491,C0248,2025-11-23,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00492,C0248,2026-02-09,Call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00493,C0248,2026-09-23,Branch meeting,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00494,C0249,2025-09-24,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00495,C0249,2025-10-24,Video call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00496,C0249,2025-11-05,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00497,C0250,2026-01-17,Video call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00498,C0250,2026-01-28,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00499,C0250,2026-08-24,Call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00500,C0251,2026-02-16,Branch meeting,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00501,C0252,2025-10-19,Call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00502,C0253,2026-01-11,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00503,C0253,2026-06-19,Branch meeting,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00504,C0254,2026-04-21,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00505,C0255,2026-07-09,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00506,C0255,2026-08-18,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00507,C0256,2025-12-08,Call,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00508,C0256,2026-07-29,Branch meeting,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00509,C0257,2025-12-23,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00510,C0257,2026-03-04,Video call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00511,C0257,2026-09-18,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00512,C0258,2026-06-21,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00513,C0259,2026-06-05,Video call,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00514,C0260,2025-11-02,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00515,C0260,2026-04-27,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00516,C0260,2026-05-28,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00517,C0261,2026-09-17,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00518,C0262,2026-09-24,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00519,C0263,2025-10-29,Call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00520,C0263,2025-12-23,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00521,C0263,2026-09-30,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00522,C0264,2025-11-13,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00523,C0264,2026-07-06,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00524,C0264,2026-08-13,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00525,C0265,2025-08-22,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00526,C0266,2026-08-30,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00527,C0267,2025-08-19,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00528,C0267,2025-12-06,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00529,C0267,2026-07-19,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00530,C0268,2025-09-11,Video call,Client mentioned planning to buy a HDB flat within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00531,C0268,2026-05-10,Call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00532,C0269,2026-01-26,Video call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00533,C0269,2026-08-10,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00534,C0269,2026-09-27,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00535,C0270,2026-01-08,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00536,C0270,2026-01-18,Video call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00537,C0270,2026-04-20,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00538,C0271,2026-05-01,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00539,C0271,2026-05-07,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00540,C0272,2025-12-03,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00541,C0273,2025-12-10,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00542,C0273,2026-03-16,Call,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00543,C0274,2025-12-14,Call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00544,C0275,2026-04-20,Call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00545,C0275,2026-07-18,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00546,C0276,2025-09-20,Branch meeting,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00547,C0276,2026-08-24,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00548,C0276,2026-08-30,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00549,C0277,2025-11-07,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00550,C0277,2025-12-05,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00551,C0278,2025-10-26,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00552,C0279,2025-09-12,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00553,C0279,2026-07-04,Call,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00554,C0280,2025-09-22,Video call,Client mentioned planning to buy a HDB flat within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00555,C0280,2026-05-25,Video call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00556,C0280,2026-07-07,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00557,C0281,2025-09-06,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00558,C0281,2026-01-16,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00559,C0282,2025-08-28,Branch meeting,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00560,C0282,2026-05-14,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00561,C0283,2026-05-17,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00562,C0284,2026-05-18,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00563,C0284,2026-09-17,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00564,C0285,2026-04-13,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00565,C0285,2026-09-22,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00566,C0286,2026-01-01,Branch meeting,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00567,C0287,2025-09-30,Video call,Client mentioned planning to buy a HDB flat within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00568,C0287,2025-10-29,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00569,C0287,2025-11-30,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00570,C0288,2026-01-08,Branch meeting,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00571,C0288,2026-06-11,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00572,C0289,2026-08-19,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00573,C0290,2026-02-24,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00574,C0290,2026-04-05,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00575,C0290,2026-06-20,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00576,C0291,2025-12-07,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00577,C0292,2025-08-20,Call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00578,C0292,2026-09-04,Branch meeting,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00579,C0293,2025-10-22,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00580,C0293,2025-10-31,Video call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00581,C0294,2026-01-01,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00582,C0294,2026-07-22,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00583,C0295,2025-10-06,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00584,C0296,2025-10-08,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00585,C0297,2025-11-16,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00586,C0297,2026-06-27,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00587,C0298,2025-10-28,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00588,C0298,2025-11-16,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00589,C0298,2026-03-13,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00590,C0299,2026-04-30,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00591,C0299,2026-05-19,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00592,C0300,2026-10-01,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00593,C0301,2026-02-18,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00594,C0302,2026-09-24,Call,Client mentioned planning to buy a HDB flat within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00595,C0303,2026-08-25,Branch meeting,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00596,C0304,2026-06-27,Call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00597,C0305,2025-09-02,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00598,C0306,2025-09-21,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00599,C0306,2026-03-12,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00600,C0307,2026-02-12,Call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00601,C0308,2025-08-31,Call,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00602,C0308,2026-04-03,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00603,C0308,2026-04-26,Call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00604,C0309,2025-09-14,Call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00605,C0309,2026-08-05,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00606,C0309,2026-09-08,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00607,C0310,2026-04-01,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00608,C0310,2026-06-02,Branch meeting,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00609,C0310,2026-09-25,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00610,C0311,2026-03-13,Branch meeting,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00611,C0312,2025-09-20,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00612,C0313,2026-02-11,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00613,C0314,2025-10-19,Video call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00614,C0314,2026-10-01,Video call,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00615,C0315,2025-09-26,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00616,C0315,2025-09-28,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00617,C0315,2026-03-06,Video call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00618,C0316,2025-11-30,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00619,C0317,2025-12-02,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00620,C0317,2025-12-31,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00621,C0318,2025-10-12,Call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00622,C0318,2026-04-29,Call,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00623,C0319,2025-09-03,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00624,C0319,2026-02-03,Branch meeting,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00625,C0319,2026-06-23,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00626,C0320,2026-07-19,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00627,C0321,2025-09-14,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00628,C0321,2025-12-22,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00629,C0322,2025-11-12,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00630,C0322,2026-01-09,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00631,C0322,2026-06-27,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00632,C0323,2026-03-03,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00633,C0324,2026-09-08,Call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00634,C0325,2026-02-09,Call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00635,C0325,2026-04-11,Call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00636,C0326,2026-06-13,Video call,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00637,C0326,2026-09-16,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00638,C0327,2025-11-02,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00639,C0327,2025-12-30,Video call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00640,C0328,2026-01-22,Call,Client mentioned planning to buy a HDB flat within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00641,C0328,2026-03-30,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00642,C0328,2026-08-19,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00643,C0329,2025-11-19,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00644,C0329,2026-06-09,Video call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00645,C0329,2026-06-20,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00646,C0330,2026-03-02,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00647,C0331,2026-05-24,Video call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00648,C0331,2026-05-30,Call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00649,C0331,2026-06-26,Call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00650,C0332,2025-10-17,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00651,C0333,2025-08-20,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00652,C0333,2025-09-10,Call,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00653,C0334,2026-04-12,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00654,C0335,2025-09-28,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00655,C0336,2025-11-13,Video call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00656,C0336,2026-08-17,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00657,C0337,2026-06-23,Video call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00658,C0338,2026-03-01,Call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00659,C0338,2026-08-19,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00660,C0339,2025-12-16,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00661,C0339,2026-01-24,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00662,C0339,2026-07-16,Call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00663,C0340,2025-10-22,Video call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00664,C0340,2026-06-27,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00665,C0340,2026-08-09,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00666,C0341,2025-08-31,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00667,C0341,2025-09-26,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00668,C0341,2026-07-17,Call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00669,C0342,2026-07-17,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00670,C0343,2025-10-15,Video call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00671,C0343,2026-09-06,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00672,C0344,2025-10-06,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00673,C0344,2025-10-10,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00674,C0344,2026-07-08,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00675,C0345,2026-01-23,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00676,C0345,2026-02-16,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00677,C0345,2026-08-11,Call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00678,C0346,2026-09-08,Branch meeting,Client mentioned planning to buy a HDB flat within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00679,C0347,2025-12-10,Branch meeting,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00680,C0347,2026-02-06,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00681,C0348,2026-07-20,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00682,C0348,2026-08-06,Video call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00683,C0349,2026-02-03,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00684,C0349,2026-02-25,Video call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00685,C0349,2026-09-30,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00686,C0350,2026-03-22,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00687,C0351,2026-02-13,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00688,C0351,2026-04-24,Video call,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00689,C0351,2026-07-15,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00690,C0352,2025-12-29,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00691,C0352,2026-06-12,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00692,C0353,2025-08-23,Video call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00693,C0353,2025-09-01,Video call,Client mentioned planning to buy a HDB flat within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00694,C0354,2025-12-29,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00695,C0354,2026-03-21,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00696,C0354,2026-03-29,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00697,C0355,2026-02-11,Call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00698,C0356,2026-02-18,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00699,C0356,2026-05-24,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00700,C0357,2025-12-11,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00701,C0357,2025-12-23,Video call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00702,C0357,2026-02-19,Video call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00703,C0358,2025-09-25,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00704,C0359,2026-03-09,Branch meeting,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00705,C0360,2025-11-02,Call,Client mentioned planning to buy a HDB flat within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00706,C0361,2026-06-22,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00707,C0362,2025-09-04,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00708,C0362,2025-11-28,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00709,C0362,2026-03-25,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00710,C0363,2025-11-19,Call,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00711,C0363,2026-01-11,Video call,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00712,C0363,2026-09-22,Branch meeting,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00713,C0364,2025-09-09,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00714,C0365,2025-09-09,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00715,C0365,2026-02-08,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00716,C0365,2026-04-02,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00717,C0366,2026-01-22,Video call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00718,C0366,2026-02-04,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00719,C0367,2026-03-06,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00720,C0367,2026-07-06,Call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00721,C0368,2025-11-21,Call,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00722,C0368,2026-03-10,Branch meeting,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00723,C0368,2026-03-17,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00724,C0369,2025-08-27,Video call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00725,C0369,2026-02-28,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00726,C0369,2026-08-28,Branch meeting,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00727,C0370,2025-08-24,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00728,C0370,2025-08-25,Call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00729,C0370,2026-09-11,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00730,C0371,2026-04-08,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00731,C0371,2026-08-16,Branch meeting,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00732,C0372,2025-10-25,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00733,C0373,2026-03-10,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00734,C0374,2026-02-24,Branch meeting,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00735,C0374,2026-07-02,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00736,C0374,2026-09-09,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00737,C0375,2025-08-17,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00738,C0376,2025-09-15,Call,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00739,C0376,2025-12-17,Video call,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00740,C0377,2025-09-25,Call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00741,C0377,2026-06-09,Video call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00742,C0377,2026-07-11,Branch meeting,Client mentioned planning to buy a HDB flat within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00743,C0378,2025-09-10,Branch meeting,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00744,C0378,2025-09-17,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00745,C0378,2025-10-14,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00746,C0379,2026-09-25,Video call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00747,C0380,2026-03-07,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00748,C0381,2026-02-06,Video call,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00749,C0381,2026-06-18,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00750,C0381,2026-07-11,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00751,C0382,2025-11-25,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00752,C0382,2026-03-12,Branch meeting,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00753,C0382,2026-06-09,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00754,C0383,2025-08-23,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00755,C0384,2025-10-02,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00756,C0384,2025-10-16,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00757,C0384,2026-06-13,Video call,Client mentioned planning to buy a condo within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00758,C0385,2026-01-10,Video call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00759,C0386,2025-10-29,Video call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00760,C0386,2026-06-05,Branch meeting,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00761,C0387,2026-05-12,Video call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00762,C0388,2025-12-12,Call,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00763,C0388,2026-01-26,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00764,C0389,2025-11-22,Video call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00765,C0389,2026-01-19,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
+I00766,C0389,2026-08-27,Branch meeting,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00767,C0390,2026-03-13,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00768,C0390,2026-07-02,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00769,C0390,2026-09-15,Video call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00770,C0391,2025-09-20,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00771,C0391,2026-01-28,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00772,C0391,2026-09-06,Call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00773,C0392,2025-12-02,Video call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00774,C0393,2026-04-05,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00775,C0394,2026-08-07,Call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00776,C0394,2026-08-17,Branch meeting,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00777,C0395,2025-12-19,Call,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00778,C0395,2026-05-11,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00779,C0395,2026-07-28,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00780,C0396,2026-04-17,Video call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00781,C0396,2026-06-20,Call,Client is reviewing their mortgage as the lock-in period ends soon.,synthetic_crm.interaction_log,2026-10-06
+I00782,C0397,2025-10-17,Call,Client said they receive income in USD from overseas work.,synthetic_crm.interaction_log,2026-10-06
+I00783,C0397,2025-11-15,Video call,Client wants to start saving regularly for their child's education.,synthetic_crm.interaction_log,2026-10-06
+I00784,C0397,2026-04-21,Branch meeting,Client asked about ways to earn more on idle cash.,synthetic_crm.interaction_log,2026-10-06
+I00785,C0398,2025-12-24,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00786,C0398,2026-07-04,Call,Client complained about the fall-below fee last month.,synthetic_crm.interaction_log,2026-10-06
+I00787,C0399,2025-11-16,Call,Client prefers low-risk options and dislikes market volatility.,synthetic_crm.interaction_log,2026-10-06
+I00788,C0400,2026-02-13,Video call,Client mentioned planning to buy a car within the next year.,synthetic_crm.interaction_log,2026-10-06
+I00789,C0400,2026-08-03,Branch meeting,"Routine check-in, no specific needs raised.",synthetic_crm.interaction_log,2026-10-06
