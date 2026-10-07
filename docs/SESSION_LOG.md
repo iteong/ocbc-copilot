@@ -79,6 +79,12 @@ fact-check evaluation layer, and a Streamlit app.
   image, the rest collapsible). Checked: every S$ amount renders correctly, and the Claude brief shown passed all
   11 points.
 
+## Pushed to GitHub
+- Checked first: no `.env` or API key anywhere in the git history.
+- Added `origin` (https://github.com/iteong/ocbc-copilot, empty at the time). The first push failed with 403: the
+  saved fine-grained GitHub token had no write access to the new repo (the same issue as `ocbc-campaigns`). The user
+  fixed the token, and the retry pushed `main` (`5d6ddf5`), which now tracks `origin/main`.
+
 ## Open caveats
 See `HANDOFF.md` → Known shortcuts. The main ones:
 - the ranking is no better than simple rules on synthetic labels;
