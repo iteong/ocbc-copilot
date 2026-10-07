@@ -36,5 +36,5 @@
 - Before committing: run every command in the README, and make sure every number in the docs matches the latest outputs.
 
 # Git
-- If on main, commit on a branch, then fast-forward main when asked. End commit messages with the Co-Authored-By line.
+- Commit straight to main (no feature branches). End commit messages with the Co-Authored-By line.
 - If there's no remote, ask for the repo URL rather than guessing. Keep .env, .pytest_cache/ and local logs gitignored.
